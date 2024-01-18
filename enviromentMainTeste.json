@@ -1,17 +1,1127 @@
 [
   {
-    "FileName": "cream_api.ini",
-    "FileSize": 287,
-    "HashMd5": "ed926c12283c31f7d0de9003c5bf1cb5"
-  },
-  {
     "FileName": "dayz.gproj",
     "FileSize": 1719,
     "HashMd5": "c3eb54b881b35859c09000f1695157ff"
   },
   {
+    "FileName": "cream_api.ini",
+    "FileSize": 287,
+    "HashMd5": "ed926c12283c31f7d0de9003c5bf1cb5"
+  },
+  {
     "FileName": "steam_appid.txt",
     "FileSize": 9,
     "HashMd5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
+    "FileName": "amd_ags_x64.dll",
+    "FileSize": 111536,
+    "HashMd5": "14a6db156de5b3e224232f6251f839dd"
+  },
+  {
+    "FileName": "steam_api64_s.dll",
+    "FileSize": 298856,
+    "HashMd5": "f3db5801dc9b75da671b39041e2e8bcf"
+  },
+  {
+    "FileName": "steam_api64.dll",
+    "FileSize": 834560,
+    "HashMd5": "30091b91923d9583a54a93ed1145554b"
+  },
+  {
+    "FileName": "DayZ_BE.exe",
+    "FileSize": 1337848,
+    "HashMd5": "43c0f0b3b89ba160d96bd7be7bcd6f15"
+  },
+  {
+    "FileName": "DayZ_x64.exe",
+    "FileSize": 16615664,
+    "HashMd5": "1258450056b4d601a3288a1505a77c78"
+  },
+  {
+    "FileName": "BattlEye\\BEClient_x64.cfg",
+    "FileSize": 28,
+    "HashMd5": "9ad0b55e1cdfc267f01ad5dfb9275f1d"
+  },
+  {
+    "FileName": "BattlEye\\BELauncher.ini",
+    "FileSize": 92,
+    "HashMd5": "484fa098bf0cbcfd81bf4025ca1a7b2b"
+  },
+  {
+    "FileName": "BattlEye\\BEClient_x64.dll",
+    "FileSize": 5967112,
+    "HashMd5": "00d2fb21a81ce0f2e9907dafc1fc439c"
+  },
+  {
+    "FileName": "BattlEye\\EULA.txt",
+    "FileSize": 2758,
+    "HashMd5": "033e3772eef25e4016ca81c0d6170c6b"
+  },
+  {
+    "FileName": "BattlEye\\Install_BattlEye.bat",
+    "FileSize": 58,
+    "HashMd5": "210799a7ff954d75c4efc152c0db3902"
+  },
+  {
+    "FileName": "BattlEye\\Licenses.txt",
+    "FileSize": 1128,
+    "HashMd5": "9452ca7963b62ae584a5d9c35abaaf2e"
+  },
+  {
+    "FileName": "BattlEye\\Uninstall_BattlEye.bat",
+    "FileSize": 58,
+    "HashMd5": "633d26467153e83cf54097d94b2dbc8e"
+  },
+  {
+    "FileName": "BattlEye\\BEService_x64.exe",
+    "FileSize": 9884424,
+    "HashMd5": "8344900f4d1729deb780cf031d0b77d4"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\cs.txt",
+    "FileSize": 3368,
+    "HashMd5": "77bca75ac5b2445daa982c4afcc96e81"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\de.txt",
+    "FileSize": 3417,
+    "HashMd5": "60a7a9ae31dc1d06ccb35f6a08532e7d"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\en.txt",
+    "FileSize": 2758,
+    "HashMd5": "033e3772eef25e4016ca81c0d6170c6b"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\es.txt",
+    "FileSize": 3260,
+    "HashMd5": "90ce0b3c0f8e7fb8921d387ac052beff"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\fr.txt",
+    "FileSize": 3390,
+    "HashMd5": "7d47c52a91fead55c747109a79e45f59"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\it.txt",
+    "FileSize": 3158,
+    "HashMd5": "2f800a6fc6cac59d63b4cfe97c4e0c24"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ja.txt",
+    "FileSize": 3991,
+    "HashMd5": "fac50aad714fd0b2deb7a65b30018fa8"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ko.txt",
+    "FileSize": 3585,
+    "HashMd5": "63f11dd69abb9dd96cd68ecb3b690e03"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\nl.txt",
+    "FileSize": 3363,
+    "HashMd5": "6dd303533a02009e782e30a4db19e552"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\pl.txt",
+    "FileSize": 3314,
+    "HashMd5": "6a1643878b7d8a74a0d360556f824d92"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\pt.txt",
+    "FileSize": 3152,
+    "HashMd5": "e723721e944fd850f80cd3527c351d12"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ru.txt",
+    "FileSize": 5543,
+    "HashMd5": "3c8772835cd4dd070fb22cb2c43c2496"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\tr.txt",
+    "FileSize": 3272,
+    "HashMd5": "e8c4d7b3b00dc95cd0cf2113dfaa2317"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\zh-TW.txt",
+    "FileSize": 2460,
+    "HashMd5": "8d8c4618329de135b2d3b8f1f6fbc399"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\zh.txt",
+    "FileSize": 2466,
+    "HashMd5": "8b0de381c4e798f8ad2ffe74291ee794"
+  },
+  {
+    "FileName": "BattlEye\\Privacy\\en-US.txt",
+    "FileSize": 1699,
+    "HashMd5": "9f81b0fc8e4c2e393661f4f1ac0b9ef9"
+  },
+  {
+    "FileName": "BattlEye\\Text\\cs.ini",
+    "FileSize": 3192,
+    "HashMd5": "610277c199806dde89e3e9fbe345ce79"
+  },
+  {
+    "FileName": "BattlEye\\Text\\de.ini",
+    "FileSize": 3283,
+    "HashMd5": "d4c268f65ca6c317c8c6d3a38dd72556"
+  },
+  {
+    "FileName": "BattlEye\\Text\\en.ini",
+    "FileSize": 2748,
+    "HashMd5": "ea51aefe72acf43638df2791df6f9141"
+  },
+  {
+    "FileName": "BattlEye\\Text\\es.ini",
+    "FileSize": 3137,
+    "HashMd5": "1bcc446ce940445a131bc443c869ce21"
+  },
+  {
+    "FileName": "BattlEye\\Text\\fr.ini",
+    "FileSize": 3246,
+    "HashMd5": "d22379b09ad219876c2543edaa1f081f"
+  },
+  {
+    "FileName": "BattlEye\\Text\\it.ini",
+    "FileSize": 3024,
+    "HashMd5": "8362c02242c00897adbf46d7e81d03fd"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ja.ini",
+    "FileSize": 4125,
+    "HashMd5": "1c063bcedc21b7257fc83e37442f8fa2"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ko.ini",
+    "FileSize": 3362,
+    "HashMd5": "2097d0292d438f21f43522829812c612"
+  },
+  {
+    "FileName": "BattlEye\\Text\\nl.ini",
+    "FileSize": 3004,
+    "HashMd5": "d5831046462d1a5a5d5956212d42a2dd"
+  },
+  {
+    "FileName": "BattlEye\\Text\\pl.ini",
+    "FileSize": 3165,
+    "HashMd5": "b7ba89d9e9046f81adbbcbb1ad84b387"
+  },
+  {
+    "FileName": "BattlEye\\Text\\pt.ini",
+    "FileSize": 3054,
+    "HashMd5": "ac10f9fc5c443d1a613d08c58615162d"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ru.ini",
+    "FileSize": 4901,
+    "HashMd5": "3a243a60a6d91ef8909d9150c9cfb788"
+  },
+  {
+    "FileName": "BattlEye\\Text\\tr.ini",
+    "FileSize": 2990,
+    "HashMd5": "40a8849fe93b59ebdd7a9770aa37704f"
+  },
+  {
+    "FileName": "BattlEye\\Text\\zh-TW.ini",
+    "FileSize": 2628,
+    "HashMd5": "1ee4320204e4ae1bc3d1ce6df8136b1c"
+  },
+  {
+    "FileName": "BattlEye\\Text\\zh.ini",
+    "FileSize": 2628,
+    "HashMd5": "436d93e0c378effcd991f639f8ac391c"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.BrowserSubprocess.Core.dll",
+    "FileSize": 940544,
+    "HashMd5": "fbb97e124189474d9ff7a03214c21393"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.BrowserSubprocess.Core.pdb",
+    "FileSize": 10031104,
+    "HashMd5": "f5b981afedff30f0826571d756a65410"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.BrowserSubprocess.exe",
+    "FileSize": 7168,
+    "HashMd5": "4c35c7b269101c6929f2267805d86be0"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.BrowserSubprocess.pdb",
+    "FileSize": 19968,
+    "HashMd5": "98759a5f68cefe2d1a9979e072f74ae7"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Core.dll",
+    "FileSize": 847872,
+    "HashMd5": "e3d68c79dd921a91b3ee187065bea275"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Core.pdb",
+    "FileSize": 2350592,
+    "HashMd5": "283e67e4d9f0625e3f7fc60c7d4f1248"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Core.Runtime.dll",
+    "FileSize": 1393152,
+    "HashMd5": "84dc531f92c4ae9934b4c251c21af368"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Core.xml",
+    "FileSize": 1403445,
+    "HashMd5": "a3d947c8597f476d802c999dbf0cd05e"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.dll",
+    "FileSize": 280576,
+    "HashMd5": "68770c050db82531a6d9f5e9684fc72f"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.OffScreen.dll",
+    "FileSize": 41984,
+    "HashMd5": "55875fd66853b60ece7f319879c908b6"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.OffScreen.pdb",
+    "FileSize": 105984,
+    "HashMd5": "0dfba2935fb66d3e78aa1d6df2fb95ba"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.OffScreen.xml",
+    "FileSize": 75116,
+    "HashMd5": "ec89e3c75ebebe7780553737d2d0d728"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.pdb",
+    "FileSize": 1076736,
+    "HashMd5": "d85540aed9aa92eaf4e571ffad7e88d3"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.WinForms.dll",
+    "FileSize": 53248,
+    "HashMd5": "fa77282d6688f29108a958e9255b47d3"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.WinForms.pdb",
+    "FileSize": 155136,
+    "HashMd5": "24f1761f8507885f4acde121198cbfd8"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Core.Runtime.pdb",
+    "FileSize": 11137024,
+    "HashMd5": "4feb06ab30a402e7e83f1a0b86463f8c"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.WinForms.xml",
+    "FileSize": 105265,
+    "HashMd5": "e4deff893168055d306bb3800ed83410"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Wpf.dll",
+    "FileSize": 114688,
+    "HashMd5": "8f52fd8ae0ce85a05022bda4b1c7a9f4"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Core.Runtime.xml",
+    "FileSize": 550923,
+    "HashMd5": "d08193cacd85ed974fbe3fdfd7c85840"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Wpf.pdb",
+    "FileSize": 349696,
+    "HashMd5": "f0f542c2b6e6898d8d9ab260745c2c50"
+  },
+  {
+    "FileName": "Launcher\\ControlzEx.xml",
+    "FileSize": 172506,
+    "HashMd5": "5157bf5dabbec676d862f0a008f0a352"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.Wpf.xml",
+    "FileSize": 179921,
+    "HashMd5": "c869a9839a0d48e0be74a2ea621ba12d"
+  },
+  {
+    "FileName": "Launcher\\CefSharp.xml",
+    "FileSize": 932415,
+    "HashMd5": "679cee67b746b03719b47afbc7849641"
+  },
+  {
+    "FileName": "Launcher\\chrome_100_percent.pak",
+    "FileSize": 629281,
+    "HashMd5": "84a3b7af022383301dd3ac3ac16501bc"
+  },
+  {
+    "FileName": "Launcher\\chrome_200_percent.pak",
+    "FileSize": 949627,
+    "HashMd5": "c5dd651c63459acbc462a30486218f0c"
+  },
+  {
+    "FileName": "Launcher\\d3dcompiler_47.dll",
+    "FileSize": 4127200,
+    "HashMd5": "3b4647bcb9feb591c2c05d1a606ed988"
+  },
+  {
+    "FileName": "Launcher\\DiscordRPC.dll",
+    "FileSize": 83968,
+    "HashMd5": "523a5b658162384e46d92a621bf6c5bc"
+  },
+  {
+    "FileName": "Launcher\\DiscordRPC.pdb",
+    "FileSize": 27788,
+    "HashMd5": "30bf4e358d5b26e4a2e26ec7724b45da"
+  },
+  {
+    "FileName": "Launcher\\chrome_elf.dll",
+    "FileSize": 1121280,
+    "HashMd5": "13e33c127ae9ce1eda6c02cfa0186ae5"
+  },
+  {
+    "FileName": "Launcher\\DiscordRPC.xml",
+    "FileSize": 123300,
+    "HashMd5": "5ddc4e4ffa9844cff44b25379dd8097d"
+  },
+  {
+    "FileName": "Launcher\\ControlzEx.dll",
+    "FileSize": 250432,
+    "HashMd5": "37dbeb3e804d61cefed67d1a60dde873"
+  },
+  {
+    "FileName": "Launcher\\ControlzEx.pdb",
+    "FileSize": 843264,
+    "HashMd5": "3c429f78e96b6c009a11e64711c8d147"
+  },
+  {
+    "FileName": "Launcher\\Eco.LinqExtender.dll",
+    "FileSize": 455680,
+    "HashMd5": "cbda936227138d945d511463072e9966"
+  },
+  {
+    "FileName": "Launcher\\envMaster.xml",
+    "FileSize": 1971,
+    "HashMd5": "8e5521b0b6e9ac593c0f07a286662737"
+  },
+  {
+    "FileName": "Launcher\\Dropbox.Api.dll",
+    "FileSize": 4789760,
+    "HashMd5": "6e5b3b0bb7bf0f03d79bbabfa85a2021"
+  },
+  {
+    "FileName": "Launcher\\libEGL.dll",
+    "FileSize": 374784,
+    "HashMd5": "c7fad67b99d5adde6dae590adcbd2448"
+  },
+  {
+    "FileName": "Launcher\\icudtl.dat",
+    "FileSize": 10544880,
+    "HashMd5": "2134e5dbc46fb1c46eac0fe1af710ec3"
+  },
+  {
+    "FileName": "Launcher\\IdentityModel.dll",
+    "FileSize": 124928,
+    "HashMd5": "721593b8d846a1593f41151f0da3af89"
+  },
+  {
+    "FileName": "Launcher\\IdentityModel.OidcClient.dll",
+    "FileSize": 73216,
+    "HashMd5": "338018f82980b2165999d86ffed4d2f1"
+  },
+  {
+    "FileName": "Launcher\\IdentityModel.OidcClient.xml",
+    "FileSize": 42156,
+    "HashMd5": "c8f2c21e40e33c2a0c64fa013282d4ac"
+  },
+  {
+    "FileName": "Launcher\\IdentityModel.pdb",
+    "FileSize": 37068,
+    "HashMd5": "213d68046e2c51e9090e7bcf8cfae3c4"
+  },
+  {
+    "FileName": "Launcher\\IdentityModel.xml",
+    "FileSize": 152912,
+    "HashMd5": "477f7da31a0be5ba88f5714e711a9649"
+  },
+  {
+    "FileName": "Launcher\\libGLESv2.dll",
+    "FileSize": 6429184,
+    "HashMd5": "a579dad8272375fefdf24c5c78c14946"
+  },
+  {
+    "FileName": "Launcher\\LICENSE.txt",
+    "FileSize": 1662,
+    "HashMd5": "88f49d5225b9d3deadcaacb8a0b4d7d7"
+  },
+  {
+    "FileName": "Launcher\\MahApps.Metro.dll",
+    "FileSize": 3566880,
+    "HashMd5": "7b0f105e6d64d4ee914d5b48ec9bbe75"
+  },
+  {
+    "FileName": "Launcher\\MahApps.Metro.pdb",
+    "FileSize": 1883648,
+    "HashMd5": "ac31cc4f04c495ee42c557032a9ad3e6"
+  },
+  {
+    "FileName": "Launcher\\MahApps.Metro.xml",
+    "FileSize": 600720,
+    "HashMd5": "216a8746a7f6ab368371c099962b2ffc"
+  },
+  {
+    "FileName": "Launcher\\Dropbox.Api.xml",
+    "FileSize": 19794247,
+    "HashMd5": "7ed5b4d510b985de62093a6e90630358"
+  },
+  {
+    "FileName": "Launcher\\Eco.Handles.dll",
+    "FileSize": 1217024,
+    "HashMd5": "22aadca8b26bd5176a6fafa934f0c6fb"
+  },
+  {
+    "FileName": "Launcher\\Eco.Interfaces.dll",
+    "FileSize": 469504,
+    "HashMd5": "f62822f018e31c2ce3ddc25b770f5149"
+  },
+  {
+    "FileName": "Launcher\\Master Launcher.exe.config",
+    "FileSize": 4585,
+    "HashMd5": "3e01b103543089a361e825f8caafc561"
+  },
+  {
+    "FileName": "Launcher\\MDriven.Net.Http.dll",
+    "FileSize": 76288,
+    "HashMd5": "6ec4d0a9d7fc74bdc6f1ba6ed46043d4"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.AspNetCore.Http.Abstractions.dll",
+    "FileSize": 76152,
+    "HashMd5": "4106a161bdbce068267e9054fd907a85"
+  },
+  {
+    "FileName": "Launcher\\Master Launcher.exe",
+    "FileSize": 5938176,
+    "HashMd5": "932ee21394384d6c59473a0274d5c54c"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.DependencyInjection.xml",
+    "FileSize": 38798,
+    "HashMd5": "7ffbe55f61f4ef38fb58d38341c045b0"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.AspNetCore.Http.Abstractions.xml",
+    "FileSize": 89143,
+    "HashMd5": "341fb113d05434db0fcd1fae81415be8"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Logging.Abstractions.dll",
+    "FileSize": 66168,
+    "HashMd5": "1a5bff28fb38234646951aa48da14620"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.AspNetCore.Http.Features.dll",
+    "FileSize": 34704,
+    "HashMd5": "c68805d112c95a66bd7105a20f93743c"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Logging.Abstractions.xml",
+    "FileSize": 67684,
+    "HashMd5": "71fcad21aec8a8ed130f7939ff8f70c5"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.AspNetCore.Http.Features.xml",
+    "FileSize": 65016,
+    "HashMd5": "a9fc3d141801e9eb0cb8014a06f590ed"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Logging.dll",
+    "FileSize": 49792,
+    "HashMd5": "acc186364f11860ff6f3f9e3c1a7ca9a"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Bcl.AsyncInterfaces.dll",
+    "FileSize": 26752,
+    "HashMd5": "970b6e6478ae3ab699f277d77de0cd19"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Logging.xml",
+    "FileSize": 48897,
+    "HashMd5": "c789b8032cb4e7ab63aaacaac448c6a9"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Bcl.AsyncInterfaces.xml",
+    "FileSize": 29813,
+    "HashMd5": "7a9752588d37b3196e163ed63da803c9"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Options.dll",
+    "FileSize": 64144,
+    "HashMd5": "a78597736475e3143b4fc6ef49f9dd97"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+    "FileSize": 48256,
+    "HashMd5": "37eb7cce6e282d3572d64c880e1ac3c8"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Options.xml",
+    "FileSize": 130369,
+    "HashMd5": "d48eefac9fb5722b13ac35583b0dc46e"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+    "FileSize": 116892,
+    "HashMd5": "4b251adb281fc5f5bbfd4244be40ef14"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Primitives.dll",
+    "FileSize": 47232,
+    "HashMd5": "72db6ff0a92724cb156a6e8fbc559ae6"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.DependencyInjection.dll",
+    "FileSize": 88192,
+    "HashMd5": "4186a905dc180a0cc2110403727bd792"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Extensions.Primitives.xml",
+    "FileSize": 82943,
+    "HashMd5": "fde21c55b9a18ce757995b4d2c1fa0c2"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Xaml.Behaviors.dll",
+    "FileSize": 145288,
+    "HashMd5": "ec5a1abee150abe698689211b07cd1ec"
+  },
+  {
+    "FileName": "Launcher\\System.Buffers.dll",
+    "FileSize": 20856,
+    "HashMd5": "ecdfe8ede869d2ccc6bf99981ea96400"
+  },
+  {
+    "FileName": "Launcher\\System.Buffers.xml",
+    "FileSize": 3481,
+    "HashMd5": "1c55860dd93297a6ea2fad2974834c3a"
+  },
+  {
+    "FileName": "Launcher\\System.Diagnostics.DiagnosticSource.dll",
+    "FileSize": 173232,
+    "HashMd5": "eca216927ed487613b7a042fc643bd8f"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Xaml.Behaviors.pdb",
+    "FileSize": 482816,
+    "HashMd5": "db7fde2d3ebce71e5a0fef7502b377b9"
+  },
+  {
+    "FileName": "Launcher\\System.Diagnostics.DiagnosticSource.xml",
+    "FileSize": 143624,
+    "HashMd5": "23967a97add84390a0b1b90ec4bcd015"
+  },
+  {
+    "FileName": "Launcher\\Microsoft.Xaml.Behaviors.xml",
+    "FileSize": 139193,
+    "HashMd5": "ec1c40e521980ac8449c5224dac01efa"
+  },
+  {
+    "FileName": "Launcher\\System.Drawing.Common.dll",
+    "FileSize": 52864,
+    "HashMd5": "0e14e431322e84a624f1fa4764b2ee3a"
+  },
+  {
+    "FileName": "Launcher\\System.Drawing.Common.xml",
+    "FileSize": 39077,
+    "HashMd5": "27d30fada0cd1a5b5ac835ad4687e6b5"
+  },
+  {
+    "FileName": "Launcher\\System.IO.Pipelines.dll",
+    "FileSize": 85120,
+    "HashMd5": "b18213904b58c0bd01a31d863dc06d9d"
+  },
+  {
+    "FileName": "Launcher\\System.IO.Pipelines.xml",
+    "FileSize": 73248,
+    "HashMd5": "8d5b9dd062dceb024bfe600e334ba31a"
+  },
+  {
+    "FileName": "Launcher\\Newtonsoft.Json.dll",
+    "FileSize": 711952,
+    "HashMd5": "195ffb7167db3219b217c4fd439eedd6"
+  },
+  {
+    "FileName": "Launcher\\System.Memory.dll",
+    "FileSize": 142240,
+    "HashMd5": "f09441a1ee47fb3e6571a3a448e05baf"
+  },
+  {
+    "FileName": "Launcher\\System.Memory.xml",
+    "FileSize": 13950,
+    "HashMd5": "add19745a43b2515280ce24671863114"
+  },
+  {
+    "FileName": "Launcher\\System.Net.Http.Formatting.dll",
+    "FileSize": 179680,
+    "HashMd5": "4a7816cb1067972450045e4afa50a0b8"
+  },
+  {
+    "FileName": "Launcher\\Newtonsoft.Json.xml",
+    "FileSize": 713541,
+    "HashMd5": "d398ffe9fdac6a53a8d8bb26f29bbb3c"
+  },
+  {
+    "FileName": "Launcher\\System.Net.Http.Formatting.xml",
+    "FileSize": 192626,
+    "HashMd5": "635bf4ecdf799fc0d380a5c1f9209e9b"
+  },
+  {
+    "FileName": "Launcher\\README.txt",
+    "FileSize": 5880,
+    "HashMd5": "4af5dc61773c93cae5576a3afa5b7e2a"
+  },
+  {
+    "FileName": "Launcher\\System.Numerics.Vectors.dll",
+    "FileSize": 115856,
+    "HashMd5": "aaa2cbf14e06e9d3586d8a4ed455db33"
+  },
+  {
+    "FileName": "Launcher\\System.Numerics.Vectors.xml",
+    "FileSize": 183484,
+    "HashMd5": "95dd29ca17b63843ad787d3bc9c8c933"
+  },
+  {
+    "FileName": "Launcher\\System.Runtime.CompilerServices.Unsafe.dll",
+    "FileSize": 18024,
+    "HashMd5": "c610e828b54001574d86dd2ed730e392"
+  },
+  {
+    "FileName": "Launcher\\System.Runtime.CompilerServices.Unsafe.xml",
+    "FileSize": 20529,
+    "HashMd5": "c782e92abbfc0531226f735c6ac56498"
+  },
+  {
+    "FileName": "Launcher\\System.Text.Encoding.CodePages.dll",
+    "FileSize": 764560,
+    "HashMd5": "40f8b2e776e65b772c02356ee2b75161"
+  },
+  {
+    "FileName": "Launcher\\System.Text.Encoding.CodePages.xml",
+    "FileSize": 2075,
+    "HashMd5": "c1bed46594fd83112d7e77050eb0e874"
+  },
+  {
+    "FileName": "Launcher\\System.Text.Encodings.Web.dll",
+    "FileSize": 78976,
+    "HashMd5": "c77ae3414d78c1f082c65415fae69661"
+  },
+  {
+    "FileName": "Launcher\\System.Text.Encodings.Web.xml",
+    "FileSize": 63180,
+    "HashMd5": "85be27287d715b2aac6d2671b66334f0"
+  },
+  {
+    "FileName": "Launcher\\System.Text.Json.dll",
+    "FileSize": 582320,
+    "HashMd5": "b7083ffd5d2bbbe83c6b439196838d78"
+  },
+  {
+    "FileName": "Launcher\\System.Text.Json.xml",
+    "FileSize": 818805,
+    "HashMd5": "6317eeb4e4a196db58c1ec95f2948127"
+  },
+  {
+    "FileName": "Launcher\\System.Threading.Tasks.Extensions.dll",
+    "FileSize": 25984,
+    "HashMd5": "e1e9d7d46e5cd9525c5927dc98d9ecc7"
+  },
+  {
+    "FileName": "Launcher\\System.Threading.Tasks.Extensions.xml",
+    "FileSize": 10147,
+    "HashMd5": "c89e735fcf37e76e4c3d7903d2111c04"
+  },
+  {
+    "FileName": "Launcher\\System.ValueTuple.dll",
+    "FileSize": 25232,
+    "HashMd5": "23ee4302e85013a1eb4324c414d561d5"
+  },
+  {
+    "FileName": "Launcher\\System.ValueTuple.xml",
+    "FileSize": 142,
+    "HashMd5": "b6e60687ae5db6d011e21e6993620745"
+  },
+  {
+    "FileName": "Launcher\\System.Web.Http.dll",
+    "FileSize": 456168,
+    "HashMd5": "65b14ddfff038b7e55da6a26c836314e"
+  },
+  {
+    "FileName": "Launcher\\System.Web.Http.xml",
+    "FileSize": 539657,
+    "HashMd5": "1663ebe37e099064cb6ed907e8e98061"
+  },
+  {
+    "FileName": "Launcher\\v8_context_snapshot.bin",
+    "FileSize": 531684,
+    "HashMd5": "0fb3ab94a5824318577576b93cdfee3b"
+  },
+  {
+    "FileName": "Launcher\\resources.pak",
+    "FileSize": 7619202,
+    "HashMd5": "547a08c315406f6363c127d7bcb0677d"
+  },
+  {
+    "FileName": "Launcher\\SharpCompress.dll",
+    "FileSize": 571392,
+    "HashMd5": "a582e2f7ccb5875c188716b5e5bc84f2"
+  },
+  {
+    "FileName": "Launcher\\snapshot_blob.bin",
+    "FileSize": 227412,
+    "HashMd5": "30b60ed4f41e19c311d09c90806b6f4c"
+  },
+  {
+    "FileName": "Launcher\\WpfAnimatedGif.pdb",
+    "FileSize": 16464,
+    "HashMd5": "81b1ed5a70f7cd884555bd43ea2cedbb"
+  },
+  {
+    "FileName": "Launcher\\WpfAnimatedGif.xml",
+    "FileSize": 13685,
+    "HashMd5": "e92f6e210ec0abc4c8b52dcdae5066c6"
+  },
+  {
+    "FileName": "Launcher\\vk_swiftshader.dll",
+    "FileSize": 4457984,
+    "HashMd5": "1fd68dde66fa4b30e2f902c50ccaa249"
+  },
+  {
+    "FileName": "Launcher\\vk_swiftshader_icd.json",
+    "FileSize": 106,
+    "HashMd5": "8642dd3a87e2de6e991fae08458e302b"
+  },
+  {
+    "FileName": "Launcher\\vulkan-1.dll",
+    "FileSize": 802816,
+    "HashMd5": "3838cb6df7067eca922c04295da55407"
+  },
+  {
+    "FileName": "Launcher\\WebDriver.dll",
+    "FileSize": 9164800,
+    "HashMd5": "77952f89ce3840c4f6690d368bf0cf7e"
+  },
+  {
+    "FileName": "Launcher\\Wpf.Ui.dll",
+    "FileSize": 4394496,
+    "HashMd5": "a34e7b33e583e240d7c7641490fcf6b8"
+  },
+  {
+    "FileName": "Launcher\\Wpf.Ui.xml",
+    "FileSize": 501774,
+    "HashMd5": "82218e33266463287b17b4e2d5e7233f"
+  },
+  {
+    "FileName": "Launcher\\WpfAnimatedGif.dll",
+    "FileSize": 42496,
+    "HashMd5": "47d729b6841f1e0e510bbc7d74454b73"
+  },
+  {
+    "FileName": "Launcher\\libcef.dll",
+    "FileSize": 166457856,
+    "HashMd5": "5bd44a3611ab84f3f3e0b302e8ed37af"
+  },
+  {
+    "FileName": "Launcher\\de\\MahApps.Metro.resources.dll",
+    "FileSize": 10752,
+    "HashMd5": "0abd1e7202d7a48aac4223daa56d6472"
+  },
+  {
+    "FileName": "Launcher\\locales\\af.pak",
+    "FileSize": 431928,
+    "HashMd5": "4e16312ddfd473e864adf98b910191e9"
+  },
+  {
+    "FileName": "Launcher\\locales\\am.pak",
+    "FileSize": 700406,
+    "HashMd5": "8d8a131d6bd826d97e8b1d67cd1e6432"
+  },
+  {
+    "FileName": "Launcher\\locales\\ar.pak",
+    "FileSize": 773662,
+    "HashMd5": "93daa47634165d259a23183dff3a84d5"
+  },
+  {
+    "FileName": "Launcher\\locales\\bg.pak",
+    "FileSize": 797582,
+    "HashMd5": "71bdca1bfeb9c8c4bf595ec89dd84bfc"
+  },
+  {
+    "FileName": "Launcher\\locales\\bn.pak",
+    "FileSize": 1028788,
+    "HashMd5": "55eb7651658f493281fd5d24446b9e03"
+  },
+  {
+    "FileName": "Launcher\\locales\\ca.pak",
+    "FileSize": 494689,
+    "HashMd5": "1f4a87cd997c8ec834f264c7c742ec9f"
+  },
+  {
+    "FileName": "Launcher\\locales\\cs.pak",
+    "FileSize": 502102,
+    "HashMd5": "07430e14b26b6d2eebcbbe00e0120f49"
+  },
+  {
+    "FileName": "Launcher\\locales\\da.pak",
+    "FileSize": 456472,
+    "HashMd5": "2fe52332aa5254be7506d7f52d3185ae"
+  },
+  {
+    "FileName": "Launcher\\locales\\de.pak",
+    "FileSize": 492872,
+    "HashMd5": "a68cfc352dbaf7acc807a255fd179ea4"
+  },
+  {
+    "FileName": "Launcher\\locales\\el.pak",
+    "FileSize": 874239,
+    "HashMd5": "6eafa8b566e32f14e56941dd55ca865a"
+  },
+  {
+    "FileName": "Launcher\\locales\\en-GB.pak",
+    "FileSize": 395608,
+    "HashMd5": "fa743c6cd9b30b719a43ee5d664eb246"
+  },
+  {
+    "FileName": "Launcher\\locales\\en-US.pak",
+    "FileSize": 399290,
+    "HashMd5": "731be6caf8fe9dc9379a2ed7f6bf5644"
+  },
+  {
+    "FileName": "Launcher\\locales\\es-419.pak",
+    "FileSize": 483226,
+    "HashMd5": "a1841f4b4e9f4668e0d6d654c9fb725f"
+  },
+  {
+    "FileName": "Launcher\\locales\\es.pak",
+    "FileSize": 482592,
+    "HashMd5": "2eb057e368eaee93996c292ad232b66c"
+  },
+  {
+    "FileName": "Launcher\\locales\\et.pak",
+    "FileSize": 437274,
+    "HashMd5": "a2646125edb52fc190b97226940c9e3b"
+  },
+  {
+    "FileName": "Launcher\\locales\\fa.pak",
+    "FileSize": 712935,
+    "HashMd5": "b5399607f8f2a89dcaecde837e9bf3e2"
+  },
+  {
+    "FileName": "Launcher\\locales\\fi.pak",
+    "FileSize": 445052,
+    "HashMd5": "e9158aacc1a2a009c804cb2f85fe5538"
+  },
+  {
+    "FileName": "Launcher\\locales\\fil.pak",
+    "FileSize": 503003,
+    "HashMd5": "c5453cd985c38bd9c5df59be12a04a51"
+  },
+  {
+    "FileName": "Launcher\\locales\\fr.pak",
+    "FileSize": 524776,
+    "HashMd5": "c799b733d9fd30ef845465f6607c5847"
+  },
+  {
+    "FileName": "Launcher\\locales\\gu.pak",
+    "FileSize": 1009476,
+    "HashMd5": "a4cf5cfdca01b22d03f8e4161b49e487"
+  },
+  {
+    "FileName": "Launcher\\locales\\he.pak",
+    "FileSize": 626508,
+    "HashMd5": "940ec6faa6070a8a10121220d6637831"
+  },
+  {
+    "FileName": "Launcher\\locales\\hi.pak",
+    "FileSize": 1068550,
+    "HashMd5": "829cbe8d870aed8c71f4dda7706c4334"
+  },
+  {
+    "FileName": "Launcher\\locales\\hr.pak",
+    "FileSize": 485336,
+    "HashMd5": "c1bb5353ecc0ff944ec611c498ab69d8"
+  },
+  {
+    "FileName": "Launcher\\locales\\hu.pak",
+    "FileSize": 521776,
+    "HashMd5": "1b160baf771092f9ba8e760f65b49a99"
+  },
+  {
+    "FileName": "Launcher\\locales\\id.pak",
+    "FileSize": 428943,
+    "HashMd5": "6440447f2c733de6cc3fd5c1dcb8a048"
+  },
+  {
+    "FileName": "Launcher\\locales\\it.pak",
+    "FileSize": 480802,
+    "HashMd5": "7ab5fcc4e980df7d94b62b1989e0b760"
+  },
+  {
+    "FileName": "Launcher\\locales\\ja.pak",
+    "FileSize": 583771,
+    "HashMd5": "e490cc71b1d8f74427f07c0146918f14"
+  },
+  {
+    "FileName": "Launcher\\locales\\kn.pak",
+    "FileSize": 1153607,
+    "HashMd5": "b8b19d896014de899d9c35081aa80efb"
+  },
+  {
+    "FileName": "Launcher\\locales\\ko.pak",
+    "FileSize": 489752,
+    "HashMd5": "97e7ede59e44c2346d8d372b18ca4b55"
+  },
+  {
+    "FileName": "Launcher\\locales\\lt.pak",
+    "FileSize": 527989,
+    "HashMd5": "8bfcff3d37290f6b6b85b837e3958ab7"
+  },
+  {
+    "FileName": "Launcher\\locales\\lv.pak",
+    "FileSize": 525546,
+    "HashMd5": "cc70c8e40ee326922fa4bb80d6c92f36"
+  },
+  {
+    "FileName": "Launcher\\locales\\ml.pak",
+    "FileSize": 1199602,
+    "HashMd5": "fddda30886d2a24dae04bc0ef396596c"
+  },
+  {
+    "FileName": "Launcher\\locales\\mr.pak",
+    "FileSize": 984223,
+    "HashMd5": "611e679b364c8cad8e398c81ebd2e0dc"
+  },
+  {
+    "FileName": "Launcher\\locales\\ms.pak",
+    "FileSize": 449202,
+    "HashMd5": "fee9eabb88d1b095187b376c8d97dc14"
+  },
+  {
+    "FileName": "Launcher\\locales\\nb.pak",
+    "FileSize": 437998,
+    "HashMd5": "46b2254ffcb2d952d791a13ac4dcfbd2"
+  },
+  {
+    "FileName": "Launcher\\locales\\nl.pak",
+    "FileSize": 452228,
+    "HashMd5": "cdffdb4ca17de9560604657ec184baba"
+  },
+  {
+    "FileName": "Launcher\\locales\\pl.pak",
+    "FileSize": 506462,
+    "HashMd5": "ed99da59abe5840925e0e0c4b9f9569e"
+  },
+  {
+    "FileName": "Launcher\\locales\\pt-BR.pak",
+    "FileSize": 475559,
+    "HashMd5": "0094b987a89e2919865928c774effbe0"
+  },
+  {
+    "FileName": "Launcher\\locales\\pt-PT.pak",
+    "FileSize": 478145,
+    "HashMd5": "995af33f76bddb5f3251dba8c0de51cc"
+  },
+  {
+    "FileName": "Launcher\\locales\\ro.pak",
+    "FileSize": 492605,
+    "HashMd5": "1542bc615894211832f0ba951fcca6f6"
+  },
+  {
+    "FileName": "Launcher\\locales\\ru.pak",
+    "FileSize": 807017,
+    "HashMd5": "5630e8a84f9b663e84895609c31e7061"
+  },
+  {
+    "FileName": "Launcher\\locales\\sk.pak",
+    "FileSize": 509884,
+    "HashMd5": "12b45143bbf7942db37062d741feff4a"
+  },
+  {
+    "FileName": "Launcher\\locales\\sl.pak",
+    "FileSize": 490401,
+    "HashMd5": "352a3367c5a17e26c1a50442b88b9b87"
+  },
+  {
+    "FileName": "Launcher\\locales\\sr.pak",
+    "FileSize": 752607,
+    "HashMd5": "1e5b84e1ccbd67d497c670db94a40e0e"
+  },
+  {
+    "FileName": "Launcher\\locales\\sv.pak",
+    "FileSize": 441802,
+    "HashMd5": "e8d26987a9ae1f3feabee341981e2fed"
+  },
+  {
+    "FileName": "Launcher\\locales\\sw.pak",
+    "FileSize": 463227,
+    "HashMd5": "961f4f94957ff2c050995082c09ee670"
+  },
+  {
+    "FileName": "Launcher\\locales\\ta.pak",
+    "FileSize": 1188133,
+    "HashMd5": "a9cf732d727d9fe5c58928782df27664"
+  },
+  {
+    "FileName": "Launcher\\locales\\te.pak",
+    "FileSize": 1097884,
+    "HashMd5": "9ea34e0f775e17ee6015f38e983cbd90"
+  },
+  {
+    "FileName": "Launcher\\locales\\th.pak",
+    "FileSize": 921533,
+    "HashMd5": "9db1ae664757ca240a1ed8a49ed73466"
+  },
+  {
+    "FileName": "Launcher\\locales\\tr.pak",
+    "FileSize": 472075,
+    "HashMd5": "38bbcd2aa9ea20b496ca691bd6f08733"
+  },
+  {
+    "FileName": "Launcher\\locales\\uk.pak",
+    "FileSize": 805094,
+    "HashMd5": "2e86645157ff7dcc39dd78458503018e"
+  },
+  {
+    "FileName": "Launcher\\locales\\ur.pak",
+    "FileSize": 703011,
+    "HashMd5": "aa9fb08a70a65ca59272346a72206a1d"
+  },
+  {
+    "FileName": "Launcher\\locales\\vi.pak",
+    "FileSize": 559041,
+    "HashMd5": "988f7875c3dbef5dab7ff0960226119a"
+  },
+  {
+    "FileName": "Launcher\\locales\\zh-CN.pak",
+    "FileSize": 406607,
+    "HashMd5": "a5142ba6fc6fe219be7d3e3c686d7965"
+  },
+  {
+    "FileName": "Launcher\\locales\\zh-TW.pak",
+    "FileSize": 405108,
+    "HashMd5": "bd8fd6a041a9aa2f05cc0b87d5a10888"
+  },
+  {
+    "FileName": "Launcher\\selenium-manager\\linux\\selenium-manager",
+    "FileSize": 4512416,
+    "HashMd5": "6a956ddd8f1e71ca2707aedb59a7f779"
+  },
+  {
+    "FileName": "Launcher\\selenium-manager\\macos\\selenium-manager",
+    "FileSize": 3762848,
+    "HashMd5": "4e3e74d882f2a2ef2f983f65077d7b10"
+  },
+  {
+    "FileName": "Launcher\\selenium-manager\\windows\\selenium-manager.exe",
+    "FileSize": 3172864,
+    "HashMd5": "b97e5ecdfd825a3a31183927e23e0199"
   }
 ]
