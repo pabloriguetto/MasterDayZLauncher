@@ -18,5 +18,10 @@
     "FileName": "Mods\\@LOWDM\\Addons\\IMPSET1.pbo.Master.bisign",
     "FileSize": 559,
     "HashMd5": "32cc3cd09c26735d66fe3ab5523c7718"
+  },
+  {
+    "FileName": "Mods\\@LOWDM\\Addons\\IMPSET2.pbo",
+    "FileSize": 21650967,
+    "HashMd5": "2ae2c72926e4a3b150b074825d3a9186"
   }
 ]
