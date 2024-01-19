@@ -13,5 +13,10 @@
       "FileName": "steam_appid.txt",
       "FileSize": 9,
       "HashMd5": "444b408f13a05deb53861c0a9ed2dfbc"
-    }
+    },
+    {
+    "FileName": "Mods\\@LOWDM\\Addons\\IMPSET1.pbo.Master.bisign",
+    "FileSize": 559,
+    "HashMd5": "32cc3cd09c26735d66fe3ab5523c7718"
+  }
 ]
