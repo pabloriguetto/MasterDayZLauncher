@@ -1,20 +1,20 @@
 [
-    {
-      "FileName": "dayz.gproj",
-      "FileSize": 1719,
-      "HashMd5": "c3eb54b881b35859c09000f1695157ff"
-    },
-    {
-      "FileName": "cream_api.ini",
-      "FileSize": 287,
-      "HashMd5": "ed926c12283c31f7d0de9003c5bf1cb5"
-    },
-    {
-      "FileName": "steam_appid.txt",
-      "FileSize": 9,
-      "HashMd5": "444b408f13a05deb53861c0a9ed2dfbc"
-    },
-    {
+  {
+    "FileName": "dayz.gproj",
+    "FileSize": 1719,
+    "HashMd5": "c3eb54b881b35859c09000f1695157ff"
+  },
+  {
+    "FileName": "cream_api.ini",
+    "FileSize": 287,
+    "HashMd5": "ed926c12283c31f7d0de9003c5bf1cb5"
+  },
+  {
+    "FileName": "steam_appid.txt",
+    "FileSize": 9,
+    "HashMd5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
     "FileName": "Mods\\@LOWDM\\Addons\\IMPSET1.pbo.Master.bisign",
     "FileSize": 559,
     "HashMd5": "32cc3cd09c26735d66fe3ab5523c7718"
