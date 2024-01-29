@@ -25,5 +25,8 @@
   },
   "VersionServer": {
     "Version": "1.0.6"
+  },
+  "VersionLauncher": {
+    "Version": "1.0.1"
   }
 }
