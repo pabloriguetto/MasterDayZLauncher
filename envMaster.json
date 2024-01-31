@@ -22,7 +22,8 @@
       "Name": "Riguetto"
     },
     {
-      "Token" : "AAA"
+      "Token" : "AAA",
+      "Name": "Nome de fulano"
     }
   ],
   "HardValidade": {
