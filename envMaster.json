@@ -16,6 +16,12 @@
   "Discord": {
     "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
   },
+  "VersionServer": {
+    "Version": "1.0.6"
+  },
+  "VersionLauncher": {
+    "Version": "1.0.1"
+  },
   "Validate": [
     {
       "Token" : "76561198059889387",
@@ -30,12 +36,7 @@
     "Mobo": "",
     "Ram": ""
   },
-  "VersionServer": {
-    "Version": "1.0.6"
-  },
-  "VersionLauncher": {
-    "Version": "1.0.1"
-  },
+  
   "Release": [
     {
       "ID" : "76561198059889387"
