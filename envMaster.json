@@ -16,9 +16,14 @@
   "Discord": {
     "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
   },
-  "Validate": {
-    "Token": 76561199164786000
-  },
+  "Validate": [
+    {
+      "ID" : "76561198059889387"
+    },
+    {
+      "ID" : "AAA"
+    }
+  ],
   "HardValidade": {
     "Mobo": "",
     "Ram": ""
