@@ -1,5 +1,10 @@
 [
   {
+    "FileName": "chrome_100_percent.pak",
+    "FileSize": 691420,
+    "HashMd5": "dbd100f33fc4f5fece1bd9ea2451a94d"
+  },
+  {
     "FileName": "README.txt",
     "FileSize": 5882,
     "HashMd5": "9a30648392236445679aa9be696ea1b2"
@@ -10,14 +15,9 @@
     "HashMd5": "815946fe175a354f4ab6274b306b68fe"
   },
   {
-    "FileName": "chrome_100_percent.pak",
-    "FileSize": 691420,
-    "HashMd5": "dbd100f33fc4f5fece1bd9ea2451a94d"
-  },
-  {
-    "FileName": "Renci.SshNet.dll",
-    "FileSize": 841216,
-    "HashMd5": "a1ed80438df3f089210cabbd86fd8701"
+    "FileName": "chrome_200_percent.pak",
+    "FileSize": 1053763,
+    "HashMd5": "bf15bc6f1ac1cdaee792107fe5cd5535"
   },
   {
     "FileName": "System.Text.Encodings.Web.xml",
@@ -30,24 +30,9 @@
     "HashMd5": "fcf66cb186e5facd75d5d5b4e66a0070"
   },
   {
-    "FileName": "chrome_200_percent.pak",
-    "FileSize": 1053763,
-    "HashMd5": "bf15bc6f1ac1cdaee792107fe5cd5535"
-  },
-  {
-    "FileName": "Renci.SshNet.xml",
-    "FileSize": 1375959,
-    "HashMd5": "7d8b58612f4bdd7b0e0e8b6d35b4f8af"
-  },
-  {
     "FileName": "CefSharp.BrowserSubprocess.Core.dll",
     "FileSize": 933376,
     "HashMd5": "0a642d1b5c9d21601f9868ee83bf760d"
-  },
-  {
-    "FileName": "CefSharp.OffScreen.dll",
-    "FileSize": 41984,
-    "HashMd5": "53e993303dc27fec2a1efb826dd30d65"
   },
   {
     "FileName": "Microsoft.Extensions.Logging.Abstractions.dll",
@@ -55,19 +40,24 @@
     "HashMd5": "edcf259b8ad051b75441657aaf7fce4d"
   },
   {
-    "FileName": "resources.pak",
-    "FileSize": 8187343,
-    "HashMd5": "901fdff75d98f5943d3b93fee9610336"
-  },
-  {
-    "FileName": "CefSharp.OffScreen.pdb",
-    "FileSize": 105984,
-    "HashMd5": "aaddf62548bb9a7745e7cd47e06d7232"
+    "FileName": "chrome_elf.dll",
+    "FileSize": 1057280,
+    "HashMd5": "548259a8657de7f1930a21055e0a98a9"
   },
   {
     "FileName": "Microsoft.Extensions.Logging.Abstractions.xml",
     "FileSize": 91749,
     "HashMd5": "fffc56aec29193a7faab2ea8ba881606"
+  },
+  {
+    "FileName": "CefSharp.OffScreen.dll",
+    "FileSize": 41984,
+    "HashMd5": "53e993303dc27fec2a1efb826dd30d65"
+  },
+  {
+    "FileName": "libGLESv2.dll",
+    "FileSize": 6679552,
+    "HashMd5": "be35ce624bd530b0337f398c7c588a83"
   },
   {
     "FileName": "CefSharp.BrowserSubprocess.Core.pdb",
@@ -80,54 +70,9 @@
     "HashMd5": "a05a0648c94787b7197fb7e8c4ca29b6"
   },
   {
-    "FileName": "CefSharp.OffScreen.xml",
-    "FileSize": 75116,
-    "HashMd5": "ec89e3c75ebebe7780553737d2d0d728"
-  },
-  {
-    "FileName": "chrome_elf.dll",
-    "FileSize": 1057280,
-    "HashMd5": "548259a8657de7f1930a21055e0a98a9"
-  },
-  {
-    "FileName": "CefSharp.BrowserSubprocess.pdb",
-    "FileSize": 19968,
-    "HashMd5": "302fdc7f6b06d133ad28ce1cdd0ba3f3"
-  },
-  {
-    "FileName": "CefSharp.pdb",
-    "FileSize": 1070592,
-    "HashMd5": "e49ec2fac57ec26846c9fdd008061d85"
-  },
-  {
-    "FileName": "Newtonsoft.Json.Bson.dll",
-    "FileSize": 97720,
-    "HashMd5": "5b074bcb923399e9ad27b222a66206ad"
-  },
-  {
-    "FileName": "System.Diagnostics.DiagnosticSource.dll",
-    "FileSize": 189088,
-    "HashMd5": "faef01b70b8e775a92d4b9e2383f2749"
-  },
-  {
-    "FileName": "libGLESv2.dll",
-    "FileSize": 6679552,
-    "HashMd5": "be35ce624bd530b0337f398c7c588a83"
-  },
-  {
-    "FileName": "Newtonsoft.Json.Bson.pdb",
-    "FileSize": 26968,
-    "HashMd5": "58b62abffb7ff0171573d3059f47a69c"
-  },
-  {
-    "FileName": "Newtonsoft.Json.Bson.xml",
-    "FileSize": 38371,
-    "HashMd5": "e982d2ee844f5d962ace4d64eef48ca6"
-  },
-  {
-    "FileName": "Newtonsoft.Json.dll",
-    "FileSize": 711952,
-    "HashMd5": "195ffb7167db3219b217c4fd439eedd6"
+    "FileName": "CefSharp.OffScreen.pdb",
+    "FileSize": 105984,
+    "HashMd5": "aaddf62548bb9a7745e7cd47e06d7232"
   },
   {
     "FileName": "LICENSE.txt",
@@ -135,9 +80,14 @@
     "HashMd5": "88f49d5225b9d3deadcaacb8a0b4d7d7"
   },
   {
-    "FileName": "System.Diagnostics.DiagnosticSource.xml",
-    "FileSize": 153196,
-    "HashMd5": "4b31b7723a6c70c5b0feea34cf227172"
+    "FileName": "System.Diagnostics.DiagnosticSource.dll",
+    "FileSize": 189088,
+    "HashMd5": "faef01b70b8e775a92d4b9e2383f2749"
+  },
+  {
+    "FileName": "CefSharp.OffScreen.xml",
+    "FileSize": 75116,
+    "HashMd5": "ec89e3c75ebebe7780553737d2d0d728"
   },
   {
     "FileName": "Eco.Interfaces.dll",
@@ -145,14 +95,39 @@
     "HashMd5": "c15bd4e52d0c2d06190b3fce5eac0506"
   },
   {
-    "FileName": "Newtonsoft.Json.xml",
-    "FileSize": 713541,
-    "HashMd5": "d398ffe9fdac6a53a8d8bb26f29bbb3c"
+    "FileName": "CefSharp.pdb",
+    "FileSize": 1070592,
+    "HashMd5": "e49ec2fac57ec26846c9fdd008061d85"
   },
   {
-    "FileName": "System.Text.Json.dll",
-    "FileSize": 642824,
-    "HashMd5": "dba5d0f3e08cb0b220205b3f16e8b083"
+    "FileName": "System.Diagnostics.DiagnosticSource.xml",
+    "FileSize": 153196,
+    "HashMd5": "4b31b7723a6c70c5b0feea34cf227172"
+  },
+  {
+    "FileName": "Renci.SshNet.dll",
+    "FileSize": 841216,
+    "HashMd5": "a1ed80438df3f089210cabbd86fd8701"
+  },
+  {
+    "FileName": "CefSharp.BrowserSubprocess.pdb",
+    "FileSize": 19968,
+    "HashMd5": "302fdc7f6b06d133ad28ce1cdd0ba3f3"
+  },
+  {
+    "FileName": "Newtonsoft.Json.Bson.dll",
+    "FileSize": 97720,
+    "HashMd5": "5b074bcb923399e9ad27b222a66206ad"
+  },
+  {
+    "FileName": "Renci.SshNet.xml",
+    "FileSize": 1375959,
+    "HashMd5": "7d8b58612f4bdd7b0e0e8b6d35b4f8af"
+  },
+  {
+    "FileName": "Newtonsoft.Json.Bson.pdb",
+    "FileSize": 26968,
+    "HashMd5": "58b62abffb7ff0171573d3059f47a69c"
   },
   {
     "FileName": "Microsoft.Extensions.Logging.dll",
@@ -160,9 +135,14 @@
     "HashMd5": "0392cd41ba1ff3fa3be8dfcf5e263096"
   },
   {
-    "FileName": "CefSharp.WinForms.dll",
-    "FileSize": 53248,
-    "HashMd5": "c81d055882e4db7dce5d8c7585e9cab8"
+    "FileName": "System.Numerics.Vectors.dll",
+    "FileSize": 115856,
+    "HashMd5": "aaa2cbf14e06e9d3586d8a4ed455db33"
+  },
+  {
+    "FileName": "Newtonsoft.Json.Bson.xml",
+    "FileSize": 38371,
+    "HashMd5": "e982d2ee844f5d962ace4d64eef48ca6"
   },
   {
     "FileName": "Microsoft.Extensions.Logging.xml",
@@ -170,69 +150,9 @@
     "HashMd5": "e15ccc2c598b11bf10a3c9fefc4fd963"
   },
   {
-    "FileName": "SharpCompress.dll",
-    "FileSize": 575488,
-    "HashMd5": "236c5dbdfe30da08de0dcc11b3d4dd01"
-  },
-  {
-    "FileName": "CefSharp.WinForms.pdb",
-    "FileSize": 155136,
-    "HashMd5": "7d8eb166b1aa59d97a505ccff625232d"
-  },
-  {
-    "FileName": "snapshot_blob.bin",
-    "FileSize": 285652,
-    "HashMd5": "e423ddfdf34178b2b132a2be9e7a9c42"
-  },
-  {
-    "FileName": "SteamUserInfo.dll",
-    "FileSize": 12288,
-    "HashMd5": "7f85d21291b5e3ce817ea574f77a8cd9"
-  },
-  {
-    "FileName": "CefSharp.WinForms.xml",
-    "FileSize": 105265,
-    "HashMd5": "e4deff893168055d306bb3800ed83410"
-  },
-  {
-    "FileName": "System.Numerics.Vectors.dll",
-    "FileSize": 115856,
-    "HashMd5": "aaa2cbf14e06e9d3586d8a4ed455db33"
-  },
-  {
-    "FileName": "CefSharp.Core.dll",
-    "FileSize": 889344,
-    "HashMd5": "64050f0316d607390c052a77aa73cf8a"
-  },
-  {
-    "FileName": "System.Drawing.Common.dll",
-    "FileSize": 49936,
-    "HashMd5": "dd8633f1ca647d40bb64bb1de3feea13"
-  },
-  {
-    "FileName": "System.Drawing.Common.pdb",
-    "FileSize": 11656,
-    "HashMd5": "e79c6fec182a33c81eae0c38ee8ca498"
-  },
-  {
-    "FileName": "CefSharp.Core.pdb",
-    "FileSize": 2442752,
-    "HashMd5": "6f648d15af0c9176f84ae038b54fd119"
-  },
-  {
-    "FileName": "System.Numerics.Vectors.xml",
-    "FileSize": 183484,
-    "HashMd5": "95dd29ca17b63843ad787d3bc9c8c933"
-  },
-  {
-    "FileName": "System.Text.Json.xml",
-    "FileSize": 537044,
-    "HashMd5": "da51e86f5248eb112a9f02afa1d66138"
-  },
-  {
-    "FileName": "System.Buffers.dll",
-    "FileSize": 20856,
-    "HashMd5": "ecdfe8ede869d2ccc6bf99981ea96400"
+    "FileName": "resources.pak",
+    "FileSize": 8187343,
+    "HashMd5": "901fdff75d98f5943d3b93fee9610336"
   },
   {
     "FileName": "MDriven.Net.Http.dll",
@@ -240,39 +160,9 @@
     "HashMd5": "66eb206cf93d27a95d20ef55c4b14ab4"
   },
   {
-    "FileName": "protobuf-net.Core.dll",
-    "FileSize": 287744,
-    "HashMd5": "d33aa4ddcf9d2f849249ab28b652ca02"
-  },
-  {
     "FileName": "ControlzEx.dll",
     "FileSize": 250432,
     "HashMd5": "37dbeb3e804d61cefed67d1a60dde873"
-  },
-  {
-    "FileName": "System.Buffers.xml",
-    "FileSize": 3481,
-    "HashMd5": "1c55860dd93297a6ea2fad2974834c3a"
-  },
-  {
-    "FileName": "protobuf-net.Core.xml",
-    "FileSize": 255480,
-    "HashMd5": "08b0b46c0718c1d715d87cf46422a45f"
-  },
-  {
-    "FileName": "Microsoft.Extensions.Options.dll",
-    "FileSize": 68872,
-    "HashMd5": "84622f295cb1949d8edaf3d94f2ea9d4"
-  },
-  {
-    "FileName": "System.Drawing.Common.xml",
-    "FileSize": 1106897,
-    "HashMd5": "e3164d4d1cb8d48d27cdac12d530263a"
-  },
-  {
-    "FileName": "System.Runtime.CompilerServices.Unsafe.dll",
-    "FileSize": 18024,
-    "HashMd5": "c610e828b54001574d86dd2ed730e392"
   },
   {
     "FileName": "ControlzEx.pdb",
@@ -280,104 +170,79 @@
     "HashMd5": "3c429f78e96b6c009a11e64711c8d147"
   },
   {
-    "FileName": "Microsoft.Extensions.Options.xml",
-    "FileSize": 146774,
-    "HashMd5": "7d489166564267eaab0650789ec3856c"
-  },
-  {
-    "FileName": "System.Threading.Tasks.Extensions.dll",
-    "FileSize": 25984,
-    "HashMd5": "e1e9d7d46e5cd9525c5927dc98d9ecc7"
-  },
-  {
-    "FileName": "System.Threading.Tasks.Extensions.xml",
-    "FileSize": 10147,
-    "HashMd5": "c89e735fcf37e76e4c3d7903d2111c04"
-  },
-  {
-    "FileName": "CefSharp.Wpf.dll",
-    "FileSize": 114688,
-    "HashMd5": "a41ceb8494b7824732e13143139ce691"
-  },
-  {
-    "FileName": "MahApps.Metro.dll",
-    "FileSize": 3566880,
-    "HashMd5": "7b0f105e6d64d4ee914d5b48ec9bbe75"
-  },
-  {
-    "FileName": "CefSharp.Wpf.pdb",
-    "FileSize": 349696,
-    "HashMd5": "912d5dac543e388b175b3817eb4ed1b1"
-  },
-  {
-    "FileName": "System.Runtime.CompilerServices.Unsafe.xml",
-    "FileSize": 20529,
-    "HashMd5": "c782e92abbfc0531226f735c6ac56498"
-  },
-  {
     "FileName": "ControlzEx.xml",
     "FileSize": 172506,
     "HashMd5": "5157bf5dabbec676d862f0a008f0a352"
   },
   {
-    "FileName": "MahApps.Metro.pdb",
-    "FileSize": 1883648,
-    "HashMd5": "ac31cc4f04c495ee42c557032a9ad3e6"
+    "FileName": "CefSharp.WinForms.dll",
+    "FileSize": 53248,
+    "HashMd5": "c81d055882e4db7dce5d8c7585e9cab8"
   },
   {
-    "FileName": "CefSharp.Core.Runtime.dll",
-    "FileSize": 1391616,
-    "HashMd5": "833204fb5617c9ed15d23d5ba740eb42"
+    "FileName": "System.Numerics.Vectors.xml",
+    "FileSize": 183484,
+    "HashMd5": "95dd29ca17b63843ad787d3bc9c8c933"
   },
   {
-    "FileName": "d3dcompiler_47.dll",
-    "FileSize": 4127200,
-    "HashMd5": "3b4647bcb9feb591c2c05d1a606ed988"
+    "FileName": "System.Text.Json.dll",
+    "FileSize": 642824,
+    "HashMd5": "dba5d0f3e08cb0b220205b3f16e8b083"
   },
   {
-    "FileName": "System.ValueTuple.dll",
-    "FileSize": 25232,
-    "HashMd5": "23ee4302e85013a1eb4324c414d561d5"
-  },
-  {
-    "FileName": "DiscordRPC.dll",
-    "FileSize": 83968,
-    "HashMd5": "3956130e36754f184a0443c850f708f8"
-  },
-  {
-    "FileName": "System.Collections.Immutable.dll",
-    "FileSize": 252696,
-    "HashMd5": "af7880a90c02c0115cd169c7182ab378"
-  },
-  {
-    "FileName": "System.ValueTuple.xml",
-    "FileSize": 142,
-    "HashMd5": "b6e60687ae5db6d011e21e6993620745"
-  },
-  {
-    "FileName": "Microsoft.Extensions.Primitives.dll",
+    "FileName": "System.Drawing.Common.dll",
     "FileSize": 49936,
-    "HashMd5": "cb24b09fdc28b1fc98e432935331d30d"
+    "HashMd5": "dd8633f1ca647d40bb64bb1de3feea13"
   },
   {
-    "FileName": "MahApps.Metro.xml",
-    "FileSize": 600720,
-    "HashMd5": "216a8746a7f6ab368371c099962b2ffc"
+    "FileName": "CefSharp.WinForms.pdb",
+    "FileSize": 155136,
+    "HashMd5": "7d8eb166b1aa59d97a505ccff625232d"
   },
   {
-    "FileName": "DiscordRPC.pdb",
-    "FileSize": 27868,
-    "HashMd5": "79d6e74e2253e7db2590fe279ed84996"
+    "FileName": "CefSharp.Core.dll",
+    "FileSize": 889344,
+    "HashMd5": "64050f0316d607390c052a77aa73cf8a"
   },
   {
-    "FileName": "CefSharp.xml",
-    "FileSize": 931295,
-    "HashMd5": "7c172fc65b1303a94d8862d11bf8c1ca"
+    "FileName": "System.Drawing.Common.pdb",
+    "FileSize": 11656,
+    "HashMd5": "e79c6fec182a33c81eae0c38ee8ca498"
   },
   {
-    "FileName": "System.Collections.Immutable.xml",
-    "FileSize": 532144,
-    "HashMd5": "fff53c65e84d6ce5cee04b74b568972e"
+    "FileName": "CefSharp.WinForms.xml",
+    "FileSize": 105265,
+    "HashMd5": "e4deff893168055d306bb3800ed83410"
+  },
+  {
+    "FileName": "System.Text.Json.xml",
+    "FileSize": 537044,
+    "HashMd5": "da51e86f5248eb112a9f02afa1d66138"
+  },
+  {
+    "FileName": "Microsoft.Extensions.Options.dll",
+    "FileSize": 68872,
+    "HashMd5": "84622f295cb1949d8edaf3d94f2ea9d4"
+  },
+  {
+    "FileName": "CefSharp.Core.pdb",
+    "FileSize": 2442752,
+    "HashMd5": "6f648d15af0c9176f84ae038b54fd119"
+  },
+  {
+    "FileName": "System.Runtime.CompilerServices.Unsafe.dll",
+    "FileSize": 18024,
+    "HashMd5": "c610e828b54001574d86dd2ed730e392"
+  },
+  {
+    "FileName": "Microsoft.Extensions.Options.xml",
+    "FileSize": 146774,
+    "HashMd5": "7d489166564267eaab0650789ec3856c"
+  },
+  {
+    "FileName": "SharpCompress.dll",
+    "FileSize": 575488,
+    "HashMd5": "236c5dbdfe30da08de0dcc11b3d4dd01"
   },
   {
     "FileName": "Microsoft.AspNetCore.Http.Abstractions.dll",
@@ -385,24 +250,19 @@
     "HashMd5": "4106a161bdbce068267e9054fd907a85"
   },
   {
-    "FileName": "Master Launcher.application",
-    "FileSize": 1862,
-    "HashMd5": "78b8c12287bbc2f85ef5fefe328f6130"
+    "FileName": "Newtonsoft.Json.dll",
+    "FileSize": 711952,
+    "HashMd5": "195ffb7167db3219b217c4fd439eedd6"
   },
   {
-    "FileName": "Microsoft.Extensions.Primitives.xml",
-    "FileSize": 95105,
-    "HashMd5": "cb9d19108fbc372d4572fa58b169f3a8"
+    "FileName": "MahApps.Metro.dll",
+    "FileSize": 3566880,
+    "HashMd5": "7b0f105e6d64d4ee914d5b48ec9bbe75"
   },
   {
-    "FileName": "DiscordRPC.xml",
-    "FileSize": 124103,
-    "HashMd5": "8dd0e62f1ef1355060719b062049e1db"
-  },
-  {
-    "FileName": "Microsoft.Win32.Registry.dll",
-    "FileSize": 26496,
-    "HashMd5": "59c48aacb1c413c108161afe13fdbed9"
+    "FileName": "snapshot_blob.bin",
+    "FileSize": 285652,
+    "HashMd5": "e423ddfdf34178b2b132a2be9e7a9c42"
   },
   {
     "FileName": "Microsoft.AspNetCore.Http.Abstractions.xml",
@@ -410,9 +270,224 @@
     "HashMd5": "341fb113d05434db0fcd1fae81415be8"
   },
   {
-    "FileName": "Eco.Handles.dll",
-    "FileSize": 1254400,
-    "HashMd5": "3711159036231a5c2fa9b03835723e94"
+    "FileName": "System.Threading.Tasks.Extensions.dll",
+    "FileSize": 25984,
+    "HashMd5": "e1e9d7d46e5cd9525c5927dc98d9ecc7"
+  },
+  {
+    "FileName": "SteamUserInfo.dll",
+    "FileSize": 12288,
+    "HashMd5": "7f85d21291b5e3ce817ea574f77a8cd9"
+  },
+  {
+    "FileName": "MahApps.Metro.pdb",
+    "FileSize": 1883648,
+    "HashMd5": "ac31cc4f04c495ee42c557032a9ad3e6"
+  },
+  {
+    "FileName": "Newtonsoft.Json.xml",
+    "FileSize": 713541,
+    "HashMd5": "d398ffe9fdac6a53a8d8bb26f29bbb3c"
+  },
+  {
+    "FileName": "CefSharp.Core.Runtime.dll",
+    "FileSize": 1391616,
+    "HashMd5": "833204fb5617c9ed15d23d5ba740eb42"
+  },
+  {
+    "FileName": "System.Threading.Tasks.Extensions.xml",
+    "FileSize": 10147,
+    "HashMd5": "c89e735fcf37e76e4c3d7903d2111c04"
+  },
+  {
+    "FileName": "System.Runtime.CompilerServices.Unsafe.xml",
+    "FileSize": 20529,
+    "HashMd5": "c782e92abbfc0531226f735c6ac56498"
+  },
+  {
+    "FileName": "MahApps.Metro.xml",
+    "FileSize": 600720,
+    "HashMd5": "216a8746a7f6ab368371c099962b2ffc"
+  },
+  {
+    "FileName": "Master Launcher.application",
+    "FileSize": 1862,
+    "HashMd5": "f0aa2aaedcbc56b34403f51ff233ecaa"
+  },
+  {
+    "FileName": "Microsoft.Extensions.Primitives.dll",
+    "FileSize": 49936,
+    "HashMd5": "cb24b09fdc28b1fc98e432935331d30d"
+  },
+  {
+    "FileName": "System.Buffers.dll",
+    "FileSize": 20856,
+    "HashMd5": "ecdfe8ede869d2ccc6bf99981ea96400"
+  },
+  {
+    "FileName": "System.Buffers.xml",
+    "FileSize": 3481,
+    "HashMd5": "1c55860dd93297a6ea2fad2974834c3a"
+  },
+  {
+    "FileName": "Microsoft.AspNetCore.Http.Features.dll",
+    "FileSize": 34704,
+    "HashMd5": "c68805d112c95a66bd7105a20f93743c"
+  },
+  {
+    "FileName": "Microsoft.Extensions.Primitives.xml",
+    "FileSize": 95105,
+    "HashMd5": "cb9d19108fbc372d4572fa58b169f3a8"
+  },
+  {
+    "FileName": "d3dcompiler_47.dll",
+    "FileSize": 4127200,
+    "HashMd5": "3b4647bcb9feb591c2c05d1a606ed988"
+  },
+  {
+    "FileName": "Microsoft.AspNetCore.Http.Features.xml",
+    "FileSize": 65016,
+    "HashMd5": "a9fc3d141801e9eb0cb8014a06f590ed"
+  },
+  {
+    "FileName": "CefSharp.Core.Runtime.pdb",
+    "FileSize": 10964992,
+    "HashMd5": "30631937c98bae01baab8a0b966ba763"
+  },
+  {
+    "FileName": "CefSharp.Wpf.dll",
+    "FileSize": 114688,
+    "HashMd5": "a41ceb8494b7824732e13143139ce691"
+  },
+  {
+    "FileName": "System.Drawing.Common.xml",
+    "FileSize": 1106897,
+    "HashMd5": "e3164d4d1cb8d48d27cdac12d530263a"
+  },
+  {
+    "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
+    "FileSize": 26904,
+    "HashMd5": "ff34978b62d5e0be84a895d9c30f99ae"
+  },
+  {
+    "FileName": "System.ValueTuple.dll",
+    "FileSize": 25232,
+    "HashMd5": "23ee4302e85013a1eb4324c414d561d5"
+  },
+  {
+    "FileName": "System.ValueTuple.xml",
+    "FileSize": 142,
+    "HashMd5": "b6e60687ae5db6d011e21e6993620745"
+  },
+  {
+    "FileName": "CefSharp.Core.Runtime.xml",
+    "FileSize": 577881,
+    "HashMd5": "5d01a44acaacb3382869203ea1a3294b"
+  },
+  {
+    "FileName": "Microsoft.Bcl.AsyncInterfaces.xml",
+    "FileSize": 31280,
+    "HashMd5": "1fc4bc74b30d484c24b04de5c0a38f5e"
+  },
+  {
+    "FileName": "System.Collections.Immutable.dll",
+    "FileSize": 252696,
+    "HashMd5": "af7880a90c02c0115cd169c7182ab378"
+  },
+  {
+    "FileName": "Microsoft.Win32.Registry.xml",
+    "FileSize": 94835,
+    "HashMd5": "a3290ea94f8f3bb6577b78e792d6018d"
+  },
+  {
+    "FileName": "protobuf-net.Core.dll",
+    "FileSize": 287744,
+    "HashMd5": "d33aa4ddcf9d2f849249ab28b652ca02"
+  },
+  {
+    "FileName": "System.Collections.Immutable.xml",
+    "FileSize": 532144,
+    "HashMd5": "fff53c65e84d6ce5cee04b74b568972e"
+  },
+  {
+    "FileName": "protobuf-net.Core.xml",
+    "FileSize": 255480,
+    "HashMd5": "08b0b46c0718c1d715d87cf46422a45f"
+  },
+  {
+    "FileName": "CefSharp.Core.xml",
+    "FileSize": 1471036,
+    "HashMd5": "ae75ec6e61dd7a912026cdeced68e13c"
+  },
+  {
+    "FileName": "CefSharp.Wpf.pdb",
+    "FileSize": 349696,
+    "HashMd5": "912d5dac543e388b175b3817eb4ed1b1"
+  },
+  {
+    "FileName": "System.Security.AccessControl.dll",
+    "FileSize": 35952,
+    "HashMd5": "527595c86ad17045a101d567d7d3279f"
+  },
+  {
+    "FileName": "CefSharp.Wpf.xml",
+    "FileSize": 179741,
+    "HashMd5": "9bf73318f4e2f69dc6f665a75221bec3"
+  },
+  {
+    "FileName": "Eco.LinqExtender.dll",
+    "FileSize": 477184,
+    "HashMd5": "44952866be2eaecf1e297c980d9490a8"
+  },
+  {
+    "FileName": "DiscordRPC.dll",
+    "FileSize": 83968,
+    "HashMd5": "3956130e36754f184a0443c850f708f8"
+  },
+  {
+    "FileName": "System.IO.Pipelines.dll",
+    "FileSize": 84744,
+    "HashMd5": "a780fc912dccb6e10b7dd6d67f149bd6"
+  },
+  {
+    "FileName": "CefSharp.xml",
+    "FileSize": 931295,
+    "HashMd5": "7c172fc65b1303a94d8862d11bf8c1ca"
+  },
+  {
+    "FileName": "DiscordRPC.pdb",
+    "FileSize": 27868,
+    "HashMd5": "79d6e74e2253e7db2590fe279ed84996"
+  },
+  {
+    "FileName": "Microsoft.Xaml.Behaviors.dll",
+    "FileSize": 146360,
+    "HashMd5": "95f46f34c099421d917d5feadbb33edb"
+  },
+  {
+    "FileName": "IdentityModel.pdb",
+    "FileSize": 68848,
+    "HashMd5": "e4bfb174b1d92f6ce2e8b6bfaeec4316"
+  },
+  {
+    "FileName": "System.Memory.dll",
+    "FileSize": 142240,
+    "HashMd5": "f09441a1ee47fb3e6571a3a448e05baf"
+  },
+  {
+    "FileName": "DiscordRPC.xml",
+    "FileSize": 124103,
+    "HashMd5": "8dd0e62f1ef1355060719b062049e1db"
+  },
+  {
+    "FileName": "System.Security.AccessControl.xml",
+    "FileSize": 231631,
+    "HashMd5": "4b365d70286134aa219e358210a58ca9"
+  },
+  {
+    "FileName": "Master Launcher.exe",
+    "FileSize": 5909504,
+    "HashMd5": "df3a0fe1c60b1204bba91977ca433438"
   },
   {
     "FileName": "Master Launcher.exe.CodeAnalysisLog.xml",
@@ -430,34 +505,9 @@
     "HashMd5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "FileName": "System.IO.Pipelines.dll",
-    "FileSize": 84744,
-    "HashMd5": "a780fc912dccb6e10b7dd6d67f149bd6"
-  },
-  {
-    "FileName": "Master Launcher.exe.manifest",
-    "FileSize": 74076,
-    "HashMd5": "811661c3b2f5326282995f0ede5f4dca"
-  },
-  {
-    "FileName": "System.Security.AccessControl.dll",
-    "FileSize": 35952,
-    "HashMd5": "527595c86ad17045a101d567d7d3279f"
-  },
-  {
-    "FileName": "Microsoft.Win32.Registry.xml",
-    "FileSize": 94835,
-    "HashMd5": "a3290ea94f8f3bb6577b78e792d6018d"
-  },
-  {
-    "FileName": "Master Launcher.exe",
-    "FileSize": 5908992,
-    "HashMd5": "397b37ccc0fda3d4eea70107bf304e51"
-  },
-  {
-    "FileName": "CefSharp.Core.Runtime.pdb",
-    "FileSize": 10964992,
-    "HashMd5": "30631937c98bae01baab8a0b966ba763"
+    "FileName": "System.Memory.xml",
+    "FileSize": 13950,
+    "HashMd5": "add19745a43b2515280ce24671863114"
   },
   {
     "FileName": "System.Security.Principal.Windows.xml",
@@ -465,94 +515,9 @@
     "HashMd5": "9977a803a9bc474843d4dc0b3fd8aff1"
   },
   {
-    "FileName": "System.IO.Pipelines.xml",
-    "FileSize": 39530,
-    "HashMd5": "01753e46bca2e10ca2ab28134fefda62"
-  },
-  {
-    "FileName": "System.Security.AccessControl.xml",
-    "FileSize": 231631,
-    "HashMd5": "4b365d70286134aa219e358210a58ca9"
-  },
-  {
-    "FileName": "CefSharp.Core.Runtime.xml",
-    "FileSize": 577881,
-    "HashMd5": "5d01a44acaacb3382869203ea1a3294b"
-  },
-  {
-    "FileName": "icudtl.dat",
-    "FileSize": 10717392,
-    "HashMd5": "e0f1ad85c0933ecce2e003a2c59ae726"
-  },
-  {
-    "FileName": "vk_swiftshader_icd.json",
-    "FileSize": 106,
-    "HashMd5": "8642dd3a87e2de6e991fae08458e302b"
-  },
-  {
-    "FileName": "vulkan-1.dll",
-    "FileSize": 818688,
-    "HashMd5": "06461f29c0d7aff01dca8193267bbe3b"
-  },
-  {
-    "FileName": "System.Security.Principal.Windows.dll",
-    "FileSize": 18312,
-    "HashMd5": "be2962225b441cc23575456f32a9cf6a"
-  },
-  {
-    "FileName": "Microsoft.AspNetCore.Http.Features.dll",
-    "FileSize": 34704,
-    "HashMd5": "c68805d112c95a66bd7105a20f93743c"
-  },
-  {
-    "FileName": "protobuf-net.dll",
-    "FileSize": 276480,
-    "HashMd5": "f968979832738bf0922220ff8c958894"
-  },
-  {
-    "FileName": "CefSharp.Core.xml",
-    "FileSize": 1471036,
-    "HashMd5": "ae75ec6e61dd7a912026cdeced68e13c"
-  },
-  {
-    "FileName": "WpfAnimatedGif.xml",
-    "FileSize": 13685,
-    "HashMd5": "e92f6e210ec0abc4c8b52dcdae5066c6"
-  },
-  {
-    "FileName": "protobuf-net.xml",
-    "FileSize": 81627,
-    "HashMd5": "0b6b5d7569cef420833f37ea5711d409"
-  },
-  {
-    "FileName": "Microsoft.AspNetCore.Http.Features.xml",
-    "FileSize": 65016,
-    "HashMd5": "a9fc3d141801e9eb0cb8014a06f590ed"
-  },
-  {
-    "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
-    "FileSize": 26904,
-    "HashMd5": "ff34978b62d5e0be84a895d9c30f99ae"
-  },
-  {
-    "FileName": "System.Memory.dll",
-    "FileSize": 142240,
-    "HashMd5": "f09441a1ee47fb3e6571a3a448e05baf"
-  },
-  {
-    "FileName": "Microsoft.Bcl.AsyncInterfaces.xml",
-    "FileSize": 31280,
-    "HashMd5": "1fc4bc74b30d484c24b04de5c0a38f5e"
-  },
-  {
-    "FileName": "System.Web.Http.dll",
-    "FileSize": 454080,
-    "HashMd5": "e9ee73215ff2b30dc3d31f0336d09fa4"
-  },
-  {
-    "FileName": "System.Memory.xml",
-    "FileSize": 13950,
-    "HashMd5": "add19745a43b2515280ce24671863114"
+    "FileName": "CefSharp.dll",
+    "FileSize": 278016,
+    "HashMd5": "34aa544f3187216e4eee5c11b2e46eb6"
   },
   {
     "FileName": "Microsoft.Extensions.DependencyInjection.Abstractions.dll",
@@ -560,14 +525,29 @@
     "HashMd5": "00053ff3b5744853b9ebf90af4fdd816"
   },
   {
-    "FileName": "Microsoft.Xaml.Behaviors.dll",
-    "FileSize": 146360,
-    "HashMd5": "95f46f34c099421d917d5feadbb33edb"
+    "FileName": "vk_swiftshader_icd.json",
+    "FileSize": 106,
+    "HashMd5": "8642dd3a87e2de6e991fae08458e302b"
   },
   {
-    "FileName": "System.Web.Http.xml",
-    "FileSize": 539657,
-    "HashMd5": "1663ebe37e099064cb6ed907e8e98061"
+    "FileName": "System.Web.Http.dll",
+    "FileSize": 454080,
+    "HashMd5": "e9ee73215ff2b30dc3d31f0336d09fa4"
+  },
+  {
+    "FileName": "IdentityModel.xml",
+    "FileSize": 152912,
+    "HashMd5": "477f7da31a0be5ba88f5714e711a9649"
+  },
+  {
+    "FileName": "icudtl.dat",
+    "FileSize": 10717392,
+    "HashMd5": "e0f1ad85c0933ecce2e003a2c59ae726"
+  },
+  {
+    "FileName": "System.IO.Pipelines.xml",
+    "FileSize": 39530,
+    "HashMd5": "01753e46bca2e10ca2ab28134fefda62"
   },
   {
     "FileName": "Microsoft.Extensions.DependencyInjection.Abstractions.xml",
@@ -575,9 +555,19 @@
     "HashMd5": "5b265e477f90803dc73e4949142e79ea"
   },
   {
-    "FileName": "System.Text.Encoding.CodePages.dll",
-    "FileSize": 766224,
-    "HashMd5": "2c9e9cd5c6f31ebfdc8155efdc20f4f7"
+    "FileName": "System.Web.Http.xml",
+    "FileSize": 539657,
+    "HashMd5": "1663ebe37e099064cb6ed907e8e98061"
+  },
+  {
+    "FileName": "System.Security.Principal.Windows.dll",
+    "FileSize": 18312,
+    "HashMd5": "be2962225b441cc23575456f32a9cf6a"
+  },
+  {
+    "FileName": "Master Launcher.exe.manifest",
+    "FileSize": 74076,
+    "HashMd5": "f1d92ff40d6545f25ca35ec29360fd3f"
   },
   {
     "FileName": "v8_context_snapshot.bin",
@@ -585,14 +575,24 @@
     "HashMd5": "211f3cdf125bb13617aa0024e4b5ce09"
   },
   {
-    "FileName": "Eco.LinqExtender.dll",
-    "FileSize": 477184,
-    "HashMd5": "44952866be2eaecf1e297c980d9490a8"
+    "FileName": "vulkan-1.dll",
+    "FileSize": 818688,
+    "HashMd5": "06461f29c0d7aff01dca8193267bbe3b"
   },
   {
-    "FileName": "filesToDownloadCompleteWithoutLauncher.json",
-    "FileSize": 11486,
-    "HashMd5": "0896e2ad68881d70b700e5870776fae4"
+    "FileName": "protobuf-net.dll",
+    "FileSize": 276480,
+    "HashMd5": "f968979832738bf0922220ff8c958894"
+  },
+  {
+    "FileName": "protobuf-net.xml",
+    "FileSize": 81627,
+    "HashMd5": "0b6b5d7569cef420833f37ea5711d409"
+  },
+  {
+    "FileName": "System.Text.Encoding.CodePages.dll",
+    "FileSize": 766224,
+    "HashMd5": "2c9e9cd5c6f31ebfdc8155efdc20f4f7"
   },
   {
     "FileName": "System.Text.Encoding.CodePages.xml",
@@ -600,54 +600,9 @@
     "HashMd5": "c1bed46594fd83112d7e77050eb0e874"
   },
   {
-    "FileName": "CefSharp.dll",
-    "FileSize": 278016,
-    "HashMd5": "34aa544f3187216e4eee5c11b2e46eb6"
-  },
-  {
-    "FileName": "IdentityModel.dll",
-    "FileSize": 182784,
-    "HashMd5": "d97fadfd4a8fba8e4ce4c4ddb715cebc"
-  },
-  {
-    "FileName": "ZstdSharp.dll",
-    "FileSize": 418304,
-    "HashMd5": "c0e085dde3123e96877a4be9123659e1"
-  },
-  {
-    "FileName": "System.Text.Encodings.Web.dll",
-    "FileSize": 79024,
-    "HashMd5": "fa9d0d182c63c49a4c567f7c1652b6e6"
-  },
-  {
     "FileName": "System.Net.Http.Formatting.dll",
     "FileSize": 189368,
     "HashMd5": "cced6da02e5c69336f056ec31ca37433"
-  },
-  {
-    "FileName": "IdentityModel.OidcClient.dll",
-    "FileSize": 73216,
-    "HashMd5": "338018f82980b2165999d86ffed4d2f1"
-  },
-  {
-    "FileName": "System.Net.Http.Formatting.xml",
-    "FileSize": 192626,
-    "HashMd5": "635bf4ecdf799fc0d380a5c1f9209e9b"
-  },
-  {
-    "FileName": "IdentityModel.OidcClient.xml",
-    "FileSize": 42156,
-    "HashMd5": "c8f2c21e40e33c2a0c64fa013282d4ac"
-  },
-  {
-    "FileName": "IdentityModel.pdb",
-    "FileSize": 68848,
-    "HashMd5": "e4bfb174b1d92f6ce2e8b6bfaeec4316"
-  },
-  {
-    "FileName": "IdentityModel.xml",
-    "FileSize": 152912,
-    "HashMd5": "477f7da31a0be5ba88f5714e711a9649"
   },
   {
     "FileName": "Microsoft.Extensions.DependencyInjection.dll",
@@ -660,14 +615,44 @@
     "HashMd5": "06d5260b3f1dde69f684f6ecc1b0ec9a"
   },
   {
-    "FileName": "WebDriver.dll",
-    "FileSize": 4301312,
-    "HashMd5": "34dfb1b826ccd41e68b23e362e33255f"
+    "FileName": "System.Net.Http.Formatting.xml",
+    "FileSize": 192626,
+    "HashMd5": "635bf4ecdf799fc0d380a5c1f9209e9b"
+  },
+  {
+    "FileName": "Eco.Handles.dll",
+    "FileSize": 1254400,
+    "HashMd5": "3711159036231a5c2fa9b03835723e94"
+  },
+  {
+    "FileName": "IdentityModel.dll",
+    "FileSize": 182784,
+    "HashMd5": "d97fadfd4a8fba8e4ce4c4ddb715cebc"
+  },
+  {
+    "FileName": "System.Text.Encodings.Web.dll",
+    "FileSize": 79024,
+    "HashMd5": "fa9d0d182c63c49a4c567f7c1652b6e6"
+  },
+  {
+    "FileName": "IdentityModel.OidcClient.dll",
+    "FileSize": 73216,
+    "HashMd5": "338018f82980b2165999d86ffed4d2f1"
+  },
+  {
+    "FileName": "IdentityModel.OidcClient.xml",
+    "FileSize": 42156,
+    "HashMd5": "c8f2c21e40e33c2a0c64fa013282d4ac"
   },
   {
     "FileName": "vk_swiftshader.dll",
     "FileSize": 4487680,
     "HashMd5": "0414bc64356d0f994078fd4361efc69c"
+  },
+  {
+    "FileName": "WebDriver.dll",
+    "FileSize": 4301312,
+    "HashMd5": "34dfb1b826ccd41e68b23e362e33255f"
   },
   {
     "FileName": "WebDriver.xml",
@@ -685,6 +670,16 @@
     "HashMd5": "8fc72640d3a1265a40adea8a538264b1"
   },
   {
+    "FileName": "libcef.dll",
+    "FileSize": 170263552,
+    "HashMd5": "1a3899c28241eb93df78085c1ce79670"
+  },
+  {
+    "FileName": "libEGL.dll",
+    "FileSize": 364032,
+    "HashMd5": "1ce4183d525fdc4b8c567a00febe7b5f"
+  },
+  {
     "FileName": "WpfAnimatedGif.dll",
     "FileSize": 42496,
     "HashMd5": "47d729b6841f1e0e510bbc7d74454b73"
@@ -695,13 +690,13 @@
     "HashMd5": "81b1ed5a70f7cd884555bd43ea2cedbb"
   },
   {
-    "FileName": "libcef.dll",
-    "FileSize": 170263552,
-    "HashMd5": "1a3899c28241eb93df78085c1ce79670"
+    "FileName": "WpfAnimatedGif.xml",
+    "FileSize": 13685,
+    "HashMd5": "e92f6e210ec0abc4c8b52dcdae5066c6"
   },
   {
-    "FileName": "libEGL.dll",
-    "FileSize": 364032,
-    "HashMd5": "1ce4183d525fdc4b8c567a00febe7b5f"
+    "FileName": "ZstdSharp.dll",
+    "FileSize": 418304,
+    "HashMd5": "c0e085dde3123e96877a4be9123659e1"
   }
 ]
