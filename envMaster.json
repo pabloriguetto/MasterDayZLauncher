@@ -19,15 +19,15 @@
   "Social": [
     {
       "Nome": "Discord",
-      "Link: "https://discord.com/invite/FFXGvAj4nz"
+      "Link": "https://discord.com/invite/FFXGvAj4nz"
     },
     {
       "Nome": "Site",
-      "Link: "https://discord.com/invite/FFXGvAj4nz"
+      "Link": "https://discord.com/invite/FFXGvAj4nz"
     },
     {
       "Nome": "Youtube",
-      "Link: "https://www.youtube.com/channel/UCvVgbTzWCEp1JyhjNItTwZQ"
+      "Link": "https://www.youtube.com/channel/UCvVgbTzWCEp1JyhjNItTwZQ"
     }
   ],
   "VersionServer": {
@@ -38,11 +38,11 @@
   },
   "Validate": [
     {
-      "Token" : "76561198059889387_",
+      "Token": "76561198059889387_",
       "Name": "Teste"
     },
     {
-      "Token" : "AAA",
+      "Token": "AAA",
       "Name": "Nome de fulano"
     }
   ],
@@ -50,13 +50,12 @@
     "Mobo": "",
     "Ram": ""
   },
-  
   "Release": [
     {
-      "ID" : "76561198059889387"
+      "ID": "76561198059889387"
     },
     {
-      "ID" : "AAA"
+      "ID": "AAA"
     }
   ]
 }
