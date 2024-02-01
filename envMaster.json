@@ -46,10 +46,14 @@
       "Name": "Nome de fulano"
     }
   ],
-  "HardValidade": {
-    "Mobo": "",
-    "Ram": ""
-  },
+  "HardValidade": [
+    {
+      "CPU" : "CPU1234",
+      "MOBO" : "MOBO123",
+      "MAC" : "MAC123",
+      "Name": "FDP"
+    }
+  ],
   "Release": [
     {
       "ID": "76561198059889387"
