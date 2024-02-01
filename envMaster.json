@@ -53,6 +53,13 @@
       "GPU" : "GPU123",
       "MAC" : "MAC123",
       "Name": "FDP"
+    },
+    {
+      "CPU" : "AAAAAA",
+      "MOBO" : "BBBBBB",
+      "GPU" : "CCCCCC",
+      "MAC" : "DDDDDD",
+      "Name": "FDP 2"
     }
   ],
   "Release": [
