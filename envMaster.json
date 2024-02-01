@@ -18,19 +18,16 @@
   },
   "Photos": [
     {
-      "LinkDownload": "",
-      "LinkOpen": "",
-      "Enable": ""
+      "Link": "https://www.youtube.com/watch?v=1uptTnuszss&list=RD1uptTnuszss&start_radio=1",
+      "Name": "image1"
     },
     {
-      "LinkDownload": "",
-      "LinkOpen": "",
-      "Enable": ""
+      "Link": "https://www.youtube.com/watch?v=zG5gWncAhls",
+      "Name": "image2"
     },
     {
-      "LinkDownload": "",
-      "LinkOpen": "",
-      "Enable": ""
+      "Link": "https://www.youtube.com/watch?v=I9EClBQTkVo&t=2686s",
+      "Name": "image3"
     }
   ],
   "Social": [
