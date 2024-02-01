@@ -16,6 +16,19 @@
   "Discord": {
     "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
   },
+  "Social": [
+    {
+      "Nome": "Discord",
+      "Link: "https://discord.com/invite/FFXGvAj4nz"
+    },
+    {
+      "Nome": "Site",
+      "Link: "https://discord.com/invite/FFXGvAj4nz"
+    },
+    {
+      "Nome": "Youtube",
+      "Link: "https://www.youtube.com/channel/UCvVgbTzWCEp1JyhjNItTwZQ"
+    }
   "VersionServer": {
     "Version": "1.0.6"
   },
