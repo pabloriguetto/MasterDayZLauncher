@@ -38,7 +38,7 @@
   },
   "Validate": [
     {
-      "Token": "76561198059889387",
+      "Token": "76561198059889387_",
       "Name": "Teste"
     },
     {
@@ -48,17 +48,17 @@
   ],
   "HardValidade": [
     {
-      "CPU" : "CPU1234",
-      "MOBO" : "MOBO123",
-      "GPU" : "GPU123",
-      "MAC" : "MAC123",
+      "CPU" : "CPU 1234",
+      "MOBO" : "MOBO 123",
+      "GPU" : "GPU 123",
+      "MAC" : "MAC 123",
       "Name": "FDP"
     },
     {
-      "CPU" : "AAAAAA",
-      "MOBO" : "BBBBBB",
-      "GPU" : "CCCCCC",
-      "MAC" : "DDDDDD",
+      "CPU" : "178BFBFF00A50F00",
+      "MOBO" : "211065239203335",
+      "GPU" : "PCI\VEN_10DE&DEV_24C9&SUBSYS_88AE1043&REV_A1\4&7D659FE&0&0009",
+      "MAC" : "3C:7C:3F:7B:70:CB",
       "Name": "FDP 2"
     }
   ],
