@@ -50,6 +50,7 @@
     {
       "CPU" : "CPU1234",
       "MOBO" : "MOBO123",
+      "GPU" : "GPU123",
       "MAC" : "MAC123",
       "Name": "FDP"
     }
