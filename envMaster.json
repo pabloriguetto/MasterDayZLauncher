@@ -95,15 +95,15 @@
   "Arguments": [
     {
       "Nome": "ArgumentsOff",
-      "Link": "-mission=.\\Missions\\DayZCommunityOfflineMode.ChernarusPlus -nosplash -noPause -noBenchmark -filePatching -doLogs -scriptDebug=true -mod="
+      "Arg": "-mission=.\\Missions\\DayZCommunityOfflineMode.ChernarusPlus -nosplash -noPause -noBenchmark -filePatching -doLogs -scriptDebug=true -mod="
     },
     {
       "Nome": "ArgumentsEditor",
-      "Link": "-doLogs -mod="
+      "Arg": "-doLogs -mod="
     },
     {
       "Nome": "ModsEditor",
-      "Link": "Mods\\@CF;Mods\\@DF;Mods\\@BuilderItems;Mods\\@DayZ-Editor;Mods\\@DeerIsle;"
+      "Arg": "Mods\\@CF;Mods\\@DF;Mods\\@BuilderItems;Mods\\@DayZ-Editor;Mods\\@DeerIsle;"
     }
   ],
   "VersionServer": {
