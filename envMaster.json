@@ -92,6 +92,20 @@
       "Link": "https://www.youtube.com/channel/UCvVgbTzWCEp1JyhjNItTwZQ"
     }
   ],
+  "Arguments": [
+    {
+      "Nome": "ArgumentsOff",
+      "Link": "-mission=.\\Missions\\DayZCommunityOfflineMode.ChernarusPlus -nosplash -noPause -noBenchmark -filePatching -doLogs -scriptDebug=true -mod="
+    },
+    {
+      "Nome": "ArgumentsEditor",
+      "Link": "-doLogs -mod="
+    },
+    {
+      "Nome": "ModsEditor",
+      "Link": "Mods\\@CF;Mods\\@DF;Mods\\@BuilderItems;Mods\\@DayZ-Editor;Mods\\@DeerIsle;"
+    }
+  ],
   "VersionServer": {
     "Version": "1.0.6"
   },
