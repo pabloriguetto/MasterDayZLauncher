@@ -13,6 +13,16 @@
       "IP": "masterdayz.ddns.net"
     }
   ],
+  "Links": [
+    {
+      "Nome": "Teste",
+      "Link": "https://discord.com/channels/1106244849675546634/1121509515360215121"
+    },
+    {
+      "Nome": "Discord",
+      "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
+    }
+  ],
   "Discord": {
     "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
   },
