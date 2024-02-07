@@ -8,8 +8,8 @@
     },
     {
       "Nome": "Teste",
-      "Porta": 2310,
-      "Mods": "Mods\\@CF;Mods\\@DF;Mods\\@COT;Mods\\@VPPAdminTools;Mods\\@DayZEditorLoader;Mods\\@Watercraft;Mods\\@LOWDM;Mods\\@CPBWeapons;Mods\\@RevGuns;Mods\\@EarPlug;Mods\\@EZKillfeed-V2;Mods\\@TDWeaponPack;Mods\\@SNAFU;Mods\\@APES;Mods\\@Heli;Mods\\@RVNWeapons;Mods\\@Drones;Mods\\@DayZ-Group;Mods\\@CodeLock;Mods\\@BBP;Mods\\@AirStrike;Mods\\@Dog;Mods\\@Nemesis;Mods\\@Prison;Mods\\@Spawn;Mods\\@Bandeiras;Mods\\@Breachingcharge;Mods\\@CarrosMaster;Mods\\@Custom;Mods\\@Dildos;Mods\\@EmblemTags;Mods\\@ErapulsarZombies;Mods\\@ESPZones;Mods\\@GutZombies;Mods\\@Hitmarker;Mods\\@InventoryMoveSounds;Mods\\@Leaderboard;Mods\\@MasterDZ;Mods\\@Movement;Mods\\@NoVehicleDamage;Mods\\@Placas;Mods\\@SinxGhillies;Mods\\@SPBuilding;Mods\\@SteelDoors;Mods\\@TerrainIslands;Mods\\@TLoUMutant;Mods\\@ZombieSound;Mods\\@VirtualStorages;Mods\\@Blindado;Mods\\@FlipTransport;Mods\\@KotH;Mods\\@MAIC;Mods\\@MANDO;Mods\\@MMG;Mods\\@PlayerCounter;Mods\\@Raptor;Mods\\@StrikeGrenades;Mods\\@TraderPlus;Mods\\@Abelhas;Mods\\@AJsCreatures;Mods\\@BitcoinMining;Mods\\@CannabisPlus;Mods\\@DrippySneakers;Mods\\@Fazenda;Mods\\@Kart;Mods\\@Mineiracao;Mods\\@Peixes;Mods\\@SFP;Mods\\@TF;Mods\\@TraderMarker;Mods\\@UndergroundBases;Mods\\@VoteSkipNight;Mods\\@ZumbiPlus;Mods\\@SonixCarros;Mods\\@VendingMachines;Mods\\@PainelSolar;Mods\\@CamoTents;Mods\\@MapsAssets;Mods\\@Mask;Mods\\@OverlayRemoval;Mods\\@CarsForAll;Mods\\@BuildAnywhere;Mods\\@NPWeapons;Mods\\@DayZ-Missions;Mods\\@DayZ-Licensed;Mods\\@BonecoNeve;Mods\\@Cabana;Mods\\@Helipad;Mods\\@Sobrevivente;Mods\\@BuilderItems;Mods\\@TombStone;",
+      "Porta": 2302,
+      "Mods": "Mods\\@BBP;Mods\\@CF;Mods\\@CodeLock;Mods\\@COT;Mods\\@DF;Mods\\@Texture;Mods\\@VPPAdmin;",
       "IP": "masterdayz.ddns.net"
     }
   ],
