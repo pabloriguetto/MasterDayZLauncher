@@ -103,7 +103,7 @@
     },
     {
       "Nome": "ModsEditor",
-      "Arg": "Mods\\@CF;Mods\\@DF;Mods\\@BuilderItems;Mods\\@DF;Mods\\@DayZ-Editor;"
+      "Arg": "Mods\\@CF;Mods\\@DF;Mods\\@BuilderItems;Mods\\@DayZ-Editor;Mod\\@Assets;"
     }
   ],
   "VersionServer": {
