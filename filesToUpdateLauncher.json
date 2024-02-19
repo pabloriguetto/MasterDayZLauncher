@@ -648,50 +648,5 @@
     "FileName": "Master Launcher.exe.config",
     "FileSize": 5074,
     "HashMd5": "914200d1965178cbf68599aea593a97d"
-  },
-  {
-    "FileName": "UpdateLauncher\\UpdateLauncher.runtimeconfig.json",
-    "FileSize": 372,
-    "HashMd5": "d94cf983fba9ab1bb8a6cb3ad4a48f50"
-  },
-  {
-    "FileName": "UpdateLauncher\\UpdateLauncher.exe",
-    "FileSize": 152576,
-    "HashMd5": "8a4d9e34467f44caae7ec433944c86bc"
-  },
-  {
-    "FileName": "UpdateLauncher\\Newtonsoft.Json.dll",
-    "FileSize": 712464,
-    "HashMd5": "adf3e3eecde20b7c9661e9c47106a14a"
-  },
-  {
-    "FileName": "UpdateLauncher\\UpdateLauncher.pdb",
-    "FileSize": 16904,
-    "HashMd5": "8bcbc1a2734deecda8b6af416d268c0c"
-  },
-  {
-    "FileName": "UpdateLauncher\\UpdateLauncher.deps.json",
-    "FileSize": 56271,
-    "HashMd5": "7a3a05eb13c5073905ac4db692f66cb7"
-  },
-  {
-    "FileName": "UpdateLauncher\\Renci.SshNet.Async.dll",
-    "FileSize": 7680,
-    "HashMd5": "053d44330eb7f05c31a46e83624cfa26"
-  },
-  {
-    "FileName": "UpdateLauncher\\UpdateLauncher.dll",
-    "FileSize": 34816,
-    "HashMd5": "e9e02f06ac59b9220d6e9801aa508891"
-  },
-  {
-    "FileName": "UpdateLauncher\\SshNet.Security.Cryptography.dll",
-    "FileSize": 34816,
-    "HashMd5": "09d584f87bb78570f73e9ec95a2feaa7"
-  },
-  {
-    "FileName": "UpdateLauncher\\Renci.SshNet.dll",
-    "FileSize": 843264,
-    "HashMd5": "b6c778ffb8a572c0030f6d1bab074feb"
   }
 ]
