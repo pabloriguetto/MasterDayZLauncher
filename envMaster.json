@@ -114,12 +114,12 @@
   },
   "Validate": [
     {
-      "Token": "76561198059889387_",
+      "Token": "id_steam",
       "Name": "Teste"
     },
     {
-      "Token": "76561199503845812",
-      "Name": "bigjhow"
+      "Token": "test",
+      "Name": "test"
     }
   ],
   "HardValidade": [
