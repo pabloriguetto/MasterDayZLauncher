@@ -1,0 +1,136 @@
+{
+  "Servers": [
+    {
+      "Nome": "Vanilla++",
+      "Porta": 2302,
+      "Mods": "Mods\\@CF;Mods\\@COT;Mods\\@DF;Mods\\@VPPAdmin;Mods\\@Acessorios;Mods\\@AirRaid;Mods\\@Armas;Mods\\@Assets;Mods\\@Breachingcharge;Mods\\@BuilderItems;Mods\\@BuildEverywhere;Mods\\@BuildingFortifications;Mods\\@BunkerSubterraneo;Mods\\@Cabana;Mods\\@Criaturas;Mods\\@Drogas;Mods\\@EditorLoader;Mods\\@ExBaseBuilding;Mods\\@ExCore;Mods\\@ExMarket;Mods\\@ExMissions;Mods\\@Expansion;Mods\\@Infectado;Mods\\@Itens;Mods\\@KeycardRooms;Mods\\@Keycards;Mods\\@KotH;Mods\\@LootChest;Mods\\@MasterDayZ;Mods\\@PVEZ;Mods\\@ReviveAndDrag;Mods\\@Roupas;Mods\\@Supressao;Mods\\@Veiculos;Mods\\@Virus;Mods\\@ZonaToxica;Mods\\@Missoes;Mods\\@ExAI;Mods\\@MysteryBox",
+      "IP": "masterdayz.ddns.net"
+    }
+  ],
+  "Links": [
+    {
+      "Nome": "Ticket",
+      "Link": "https://discord.com/channels/1106244849675546634/1121509515360215121"
+    },
+    {
+      "Nome": "Discord",
+      "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
+    },
+    {
+      "Nome": "RegrasBase",
+      "Link": "https://discord.com/channels/1106244849675546634/1107704681330905129"
+    },
+    {
+      "Nome": "RegrasRaid",
+      "Link": "https://discord.com/channels/1106244849675546634/1107707465430224996"
+    },
+    {
+      "Nome": "RegrasJogabilidade",
+      "Link": "https://discord.com/channels/1106244849675546634/1107707868779655168"
+    },
+    {
+      "Nome": "RegrasClans",
+      "Link": "https://discord.com/channels/1106244849675546634/1107743541247103036"
+    }
+  ],
+  "Discord": {
+    "Link": "https://disboard.org/pt-pt/server/1106244849675546634"
+  },
+  "Photos": [
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "vipfree_01.png"
+    },
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "vip_free_arma_dvl.png"
+    },
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "vip_free_arma_ar.png"
+    },
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "vip_free_arma_scar.png"
+    },
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "vip_free_arma_fn.png"
+    }
+  ],
+  "VipsPhotos": [
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "pageVIPSLauncher1.png"
+    },
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "pageVIPSLauncher2.png"
+    },
+    {
+      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
+      "Name": "pageVIPSLauncher3.png"
+    }
+  ],
+  "Social": [
+    {
+      "Nome": "Discord",
+      "Link": "https://discord.com/invite/FFXGvAj4nz"
+    },
+    {
+      "Nome": "Site",
+      "Link": "https://discord.com/invite/FFXGvAj4nz"
+    },
+    {
+      "Nome": "Youtube",
+      "Link": "https://www.youtube.com/channel/UCvVgbTzWCEp1JyhjNItTwZQ"
+    }
+  ],
+  "Arguments": [
+    {
+      "Nome": "ArgumentsOff",
+      "Arg": "-mission=.\\Missions\\DayZCommunityOfflineMode.ChernarusPlus -nosplash -noPause -noBenchmark -filePatching -doLogs -scriptDebug=true -mod="
+    },
+    {
+      "Nome": "ArgumentsEditor",
+      "Arg": "-doLogs -mod="
+    },
+    {
+      "Nome": "ModsEditor",
+      "Arg": "Mods\\@CF;Mods\\@DF;Mods\\@BuilderItems;Mods\\@DayZ-Editor;Mod\\@Assets;"
+    }
+  ],
+  "VersionServer": {
+    "Version": "1.0.5"
+  },
+  "VersionLauncher": {
+    "Version": "1.0.1"
+  },
+  "Validate": [
+    {
+      "Token": "id_steam",
+      "Name": "Teste"
+    },
+    {
+      "Token": "test",
+      "Name": "test"
+    }
+  ],
+  "HardValidade": [
+    {
+      "CPU" : "CPU 1234",
+      "MOBO" : "MOBO 123",
+      "GPU" : "GPU 123",
+      "MAC" : "MAC 123",
+      "Name": "FDP"
+    }
+  ],
+  "Release": [
+    {
+      "ID": "76561198059889387"
+    },
+    {
+      "ID": "76561199251042523"
+    }
+  ]
+}
