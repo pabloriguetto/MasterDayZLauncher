@@ -1,0 +1,42 @@
+[
+  {
+    "FileName": "Mods\\@BBP\\Addons\\BBP_keybind.pbo",
+    "FileSize": 4774,
+    "HashMd5": "40b35e58e75de159d0d101a2fa1b1d4c"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\TranslationBaseBuildingPlus.pbo.Master.bisign",
+    "FileSize": 559,
+    "HashMd5": "396c6e846fda4c280f8fa6d2bd331dc4"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\BBP_Vanilla_Dmg.pbo.Master.bisign",
+    "FileSize": 559,
+    "HashMd5": "8b8138f7ca2a7b9c5e8413bad6677589"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\BaseBuildingPlus.pbo.Master.bisign",
+    "FileSize": 559,
+    "HashMd5": "75972551aaab3291088aee4283afe5e8"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\BBP_Vanilla_Dmg.pbo",
+    "FileSize": 10090,
+    "HashMd5": "115e043ca44f6ee2b8db8c35fa886476"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\BBP_keybind.pbo.Master.bisign",
+    "FileSize": 559,
+    "HashMd5": "1236b2e3722a4bd49259dcf720e6f4c6"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\TranslationBaseBuildingPlus.pbo",
+    "FileSize": 29737028,
+    "HashMd5": "ab249da6ac70317468a67f8bf57b19a0"
+  },
+  {
+    "FileName": "Mods\\@BBP\\Addons\\BaseBuildingPlus.pbo",
+    "FileSize": 319511900,
+    "HashMd5": "a3f992ea95f5bc434d0729a34538b66e"
+  }
+]
