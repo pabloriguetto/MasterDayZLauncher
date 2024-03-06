@@ -3,7 +3,13 @@
     {
       "Nome": "Vanilla++",
       "Porta": 2302,
-      "Mods": "Mods\\@CF;Mods\\@COT;Mods\\@DF;Mods\\@VPPAdmin;Mods\\@Acessorios;Mods\\@AirRaid;Mods\\@Armas;Mods\\@Assets;Mods\\@Breachingcharge;Mods\\@BuilderItems;Mods\\@BuildEverywhere;Mods\\@BuildingFortifications;Mods\\@BunkerSubterraneo;Mods\\@Cabana;Mods\\@Criaturas;Mods\\@Drogas;Mods\\@EditorLoader;Mods\\@ExBaseBuilding;Mods\\@ExCore;Mods\\@ExMarket;Mods\\@ExMissions;Mods\\@Expansion;Mods\\@Infectado;Mods\\@Itens;Mods\\@KeycardRooms;Mods\\@Keycards;Mods\\@KotH;Mods\\@LootChest;Mods\\@MasterDayZ;Mods\\@PVEZ;Mods\\@ReviveAndDrag;Mods\\@Roupas;Mods\\@Supressao;Mods\\@Veiculos;Mods\\@Virus;Mods\\@ZonaToxica;Mods\\@Missoes;Mods\\@ExAI;Mods\\@MysteryBox",
+      "Mods": "Mods\\@CF;Mods\\@COT;Mods\\@DF;Mods\\@VPPAdmin;Mods\\@Acessorios;Mods\\@AirRaid;Mods\\@Armas;Mods\\@Assets;Mods\\@Breachingcharge;Mods\\@BuilderItems;Mods\\@BuildEverywhere;Mods\\@BuildingFortifications;Mods\\@BunkerSubterraneo;Mods\\@Cabana;Mods\\@Criaturas;Mods\\@Drogas;Mods\\@EditorLoader;Mods\\@ExBaseBuilding;Mods\\@ExCore;Mods\\@ExMarket;Mods\\@ExMissions;Mods\\@Expansion;Mods\\@Infectado;Mods\\@Itens;Mods\\@KeycardRooms;Mods\\@Keycards;Mods\\@KotH;Mods\\@LootChest;Mods\\@MasterDayZ;Mods\\@PVEZ;Mods\\@ReviveAndDrag;Mods\\@Roupas;Mods\\@Supressao;Mods\\@Veiculos;Mods\\@Virus;Mods\\@ZonaToxica;Mods\\@Missoes;Mods\\@ExAI;Mods\\@MysteryBox;Mods\\@BBP;",
+      "IP": "masterdayz.ddns.net"
+    },
+    {
+      "Nome": "Teste",
+      "Porta": 2306,
+      "Mods": "Mods\\@CF;Mods\\@COT;Mods\\@DF;Mods\\@VPPAdmin;Mods\\@Acessorios;Mods\\@AirRaid;Mods\\@Armas;Mods\\@Assets;Mods\\@Breachingcharge;Mods\\@BuilderItems;Mods\\@BuildEverywhere;Mods\\@BuildingFortifications;Mods\\@BunkerSubterraneo;Mods\\@Cabana;Mods\\@Criaturas;Mods\\@Drogas;Mods\\@EditorLoader;Mods\\@ExBaseBuilding;Mods\\@ExCore;Mods\\@ExMarket;Mods\\@ExMissions;Mods\\@Expansion;Mods\\@Infectado;Mods\\@Itens;Mods\\@KeycardRooms;Mods\\@Keycards;Mods\\@KotH;Mods\\@LootChest;Mods\\@MasterDayZ;Mods\\@PVEZ;Mods\\@ReviveAndDrag;Mods\\@Roupas;Mods\\@Supressao;Mods\\@Veiculos;Mods\\@Virus;Mods\\@ZonaToxica;Mods\\@Missoes;Mods\\@ExAI;Mods\\@MysteryBox;Mods\\@BBP;",
       "IP": "masterdayz.ddns.net"
     }
   ],
@@ -38,24 +44,20 @@
   },
   "Photos": [
     {
-      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
-      "Name": "vipfree_01.png"
+      "Link": "https://discord.com/channels/1106244849675546634/1107710979669770280",
+      "Name": "cla_base.png"
     },
     {
-      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
-      "Name": "vip_free_arma_dvl.png"
+      "Link": "https://discord.com/channels/1106244849675546634/1107710979669770280",
+      "Name": "criar_territorio.png"
     },
     {
-      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
-      "Name": "vip_free_arma_ar.png"
+      "Link": "https://discord.com/channels/1106244849675546634/1107710979669770280",
+      "Name": "territorio.png"
     },
     {
-      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
-      "Name": "vip_free_arma_scar.png"
-    },
-    {
-      "Link": "https://discord.com/channels/1106244849675546634/1176250730336768020",
-      "Name": "vip_free_arma_fn.png"
+      "Link": "https://discord.com/channels/1106244849675546634/1107710979669770280",
+      "Name": "contruir_base.png"
     }
   ],
   "VipsPhotos": [
@@ -101,19 +103,15 @@
     }
   ],
   "VersionServer": {
-    "Version": "1.0.5"
+    "Version": "1.0.6"
   },
   "VersionLauncher": {
     "Version": "1.0.1"
   },
   "Validate": [
     {
-      "Token": "id_steam",
+      "Token": "76561198398851491",
       "Name": "Teste"
-    },
-    {
-      "Token": "test",
-      "Name": "test"
     }
   ],
   "HardValidade": [
@@ -131,6 +129,9 @@
     },
     {
       "ID": "76561199251042523"
+    },
+    {
+      "ID": "76561198398851491"
     }
   ]
 }
