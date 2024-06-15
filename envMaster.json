@@ -121,13 +121,6 @@
       "GPU" : "GPU 123",
       "MAC" : "MAC 123",
       "Name": "FDP"
-    },
-    {
-      "CPU" : "178BFBFF00A50F00",
-      "MOBO" : "MOBO 123",
-      "GPU" : "GPU 123",
-      "MAC" : "MAC 123",
-      "Name": "Riguetto"
     }
   ],
   "Release": [
